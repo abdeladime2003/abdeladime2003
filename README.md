@@ -16,7 +16,6 @@
   - Email: [abdeladimebenali2003@gmail.com](mailto:abdeladimebenali2003@gmail.com)
   - LinkedIn: [linkedin.com/in/abdeladime2003]([https://linkedin.com/in/abdeladime200](https://www.linkedin.com/in/abdeladime-benali-83579a284/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BTJBgDVU0SAerc20e1S4Djg%3D%3D)3)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving complex data problems, playing chess, and exploring new data technologies in my free time.
 
 ## Skills
 - **Programming Languages:** Python, SQL
