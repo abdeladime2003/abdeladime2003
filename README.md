@@ -8,7 +8,7 @@
   - Data warehousing: Amazon Redshift, Google BigQuery
   - Data visualization: Tableau, Power BI
 - 💼 I’m passionate about turning data into actionable insights and building efficient data pipelines.
-- 💞️ I’m looking to collaborate on projects involving:
+-  I’m looking to collaborate on projects involving:
   - Data analysis and visualization
   - Building and optimizing data pipelines
   - Implementing machine learning models
