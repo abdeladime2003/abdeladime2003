@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @abdeladime2003
+# Hi, I’m @abdeladime2003
 
 ## About Me
 - 👀 I’m interested in **data science** and **data engineering**.
