@@ -46,7 +46,7 @@
 |:---------|:--------|
 | **Education** | INPT - National Institute of Posts & Telecommunications |
 | **Graduation** | 2026 |
-| **Location** | Rabat, Morocco \| Paris, France (International Experience) |
+| **Location** | Rabat, Morocco \|
 | **Availability** | PFE Internship - January 2026 (6+ months minimum) |
 | **Languages** | Arabic (Native) • French (Business) • English (Professional) |
 
@@ -92,13 +92,7 @@
 ### BOUYGUES TELECOM | Paris, France | Data Engineer Intern
 **June - August 2025** | **Enterprise BI Migration & Automation Platform**
 
-<div align="center">
 
-![Performance](https://progress-bar.dev/99/?scale=100&title=Performance%20Improvement&width=200&color=00b894&suffix=.99%)
-![Processing Time](https://progress-bar.dev/100/?scale=100&title=Time%20Optimization&width=200&color=fdcb6e&suffix=%)
-![Dashboards](https://progress-bar.dev/40/?scale=50&title=Dashboards%20Migrated&width=200&color=6c5ce7&suffix=+)
-
-</div>
 
 **Business Challenge:** Legacy Teradata systems creating 3-5 day processing bottlenecks affecting strategic decision-making across multiple business units.
 
@@ -117,13 +111,7 @@
 ### 4D LOGICIEL MOROCCO | Morocco | Data Developer Intern
 **June - July 2024** | **Visual ETL Pipeline Innovation Engine**
 
-<div align="center">
 
-![Innovation](https://progress-bar.dev/95/?scale=100&title=Innovation%20Score&width=200&color=a29bfe&suffix=%)
-![Performance](https://progress-bar.dev/40/?scale=100&title=Performance%20Boost&width=200&color=fd79a8&suffix=%)
-![Architecture](https://progress-bar.dev/90/?scale=100&title=Modern%20Architecture&width=200&color=00cec9&suffix=%)
-
-</div>
 
 **Innovation Focus:** Pioneered Flow-Based Programming approach for enterprise ETL workflow management with drag-and-drop interface design.
 
@@ -155,12 +143,19 @@
 
 <div align="center">
 
-![National Rank](https://progress-bar.dev/97/?scale=100&title=National%20Percentile&width=300&color=00b894&suffix=%)
 ![Competition](https://img.shields.io/badge/Competition-CNC_Morocco-E17055?style=for-the-badge&labelColor=2D3748)
 
 </div>
 
 ### INPT OLYMPICS 2024 - EXECUTIVE DIRECTOR
+<div align="center">
+
+![Participants](https://progress-bar.dev/70/?scale=100&title=7000%2B%20Participants&width=250&color=ff6b6b&suffix=+)
+![Budget](https://progress-bar.dev/85/?scale=100&title=170K%20MAD%20Budget&width=250&color=4ecdc4&suffix=)
+![Teams](https://progress-bar.dev/75/?scale=100&title=15%2B%20Teams&width=250&color=a29bfe&suffix=+)
+![Success](https://progress-bar.dev/100/?scale=100&title=Zero%20Incidents&width=250&color=00b894&suffix=)
+
+</div>
 
 <div align="center">
 
