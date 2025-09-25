@@ -6,16 +6,9 @@
 
 <div align="center">
 
-## **DATA ENGINEERING SPECIALIST | ENTERPRISE SOLUTIONS ARCHITECT**
-### **INPT STUDENT | GRADUATING 2026 | AVAILABLE FOR PFE INTERNSHIP**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=80&lines=DATA+ENGINEERING+SPECIALIST;ENTERPRISE+SOLUTIONS+ARCHITECT;INPT+STUDENT+%7C+GRADUATING+2026;AVAILABLE+FOR+PFE+INTERNSHIP)](https://git.io/typing-svg)
 
-<div align="center">
-
-![Professional Focus](https://img.shields.io/badge/🎯_FOCUS-Enterprise_Data_Engineering-2D3436?style=for-the-badge&labelColor=FF6B6B)
-![Availability](https://img.shields.io/badge/📅_AVAILABLE-January_2026_PFE-2D3436?style=for-the-badge&labelColor=00B894)
-![Location](https://img.shields.io/badge/🌍_LOCATION-Morocco_|_International-2D3436?style=for-the-badge&labelColor=6C5CE7)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=4000&pause=1200&color=4ECDC4&center=true&vCenter=true&width=1200&height=60&lines=Building+next-generation+data+platforms+for+enterprise+transformation;Proven+track+record+with+99.99%25+performance+improvements;Expert+in+real-time+systems%2C+cloud+migration%2C+ML+infrastructure;Ready+for+PFE+Internship+-+January+2026)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -33,25 +26,15 @@
 
 <div align="center">
 
-**Elite Data Engineering Specialist with proven enterprise impact and exceptional academic performance. Ready for high-impact PFE internship opportunities.**
+[![Profile Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=6C5CE7&center=true&vCenter=true&width=1100&height=100&lines=ABDELADIM+BENALI+-+Data+Engineering+Specialist;INPT+Student+graduating+in+2026;International+Experience%3A+Morocco+→+Paris%2C+France;Available+for+PFE+Internship+January+2026;Expert+in+Apache+Spark%2C+Kafka%2C+BigQuery%2C+ML+Infrastructure;99.99%25+performance+improvements+delivered;7%2C000%2B+people+managed%2C+170K+MAD+budget+responsibility;Top+3.3%25+nationally+ranked+%28133%2F4000%29;Ready+for+elite+enterprise+opportunities%21)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&label=Profile%20Views&color=FF6B6B&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/abdeladime2003?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=2D3436)
-![GitHub User's stars](https://img.shields.io/github/stars/abdeladime2003?style=for-the-badge&color=6C5CE7&label=Total%20Stars&labelColor=2D3436)
-
-</div>
-
-<div align="center">
-
-### **📊 REAL-TIME PERFORMANCE DASHBOARD**
-
-![Commits Graph](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&custom_title=Development%20Performance%20Metrics)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abdeladime2003&theme=algolia&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=6C5CE7&currStreakLabel=FFFFFF)
+![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/abdeladime2003?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/abdeladime2003?style=social)
 
 </div>
 
@@ -102,15 +85,7 @@
 
 <div align="center">
 
-### **🚀 ENTERPRISE EXPERIENCE: MOROCCO & FRANCE**
-
-<div align="center">
-
-![Morocco](https://img.shields.io/badge/🇲🇦_MOROCCO-4D_Logiciel-2D3436?style=for-the-badge&labelColor=FF6B6B)
-![France](https://img.shields.io/badge/🇫🇷_FRANCE-Bouygues_Telecom-2D3436?style=for-the-badge&labelColor=4ECDC4)
-![Impact](https://img.shields.io/badge/💎_IMPACT-99.99%25_Performance_Boost-2D3436?style=for-the-badge&labelColor=00B894)
-
-</div>
+[![Experience Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=700&color=FF6B6B&center=true&vCenter=true&width=900&height=50&lines=Enterprise+Experience+in+Morocco+%26+France;Bouygues+Telecom+%7C+4D+Logiciel+Morocco;99.99%25+Performance+Improvements+Delivered;Ready+for+your+next+big+challenge%21)](https://git.io/typing-svg)
 
 </div>
 
@@ -146,15 +121,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### **🎓 ACADEMIC EXCELLENCE & ELITE LEADERSHIP**
-
-<div align="center">
-
-![Academic Rank](https://img.shields.io/badge/🏆_NATIONAL_RANK-Top_3.3%25_(133/4000)-2D3436?style=for-the-badge&labelColor=FFD700)
-![Leadership Scale](https://img.shields.io/badge/👑_LEADERSHIP-7,000+_People_Managed-2D3436?style=for-the-badge&labelColor=FF6B6B)
-![Budget](https://img.shields.io/badge/💰_BUDGET-170K_MAD_Responsibility-2D3436?style=for-the-badge&labelColor=00B894)
-
-</div>
+[![Education Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=600&color=FDCB6E&center=true&vCenter=true&width=1000&height=70&lines=ACADEMIC+EXCELLENCE+%26+ELITE+LEADERSHIP;Top+3.3%25+Nationally+Ranked;7%2C000%2B+People+Managed+Successfully;170K+MAD+Budget+Responsibility)](https://git.io/typing-svg)
 
 </div>
 
@@ -195,15 +162,7 @@
 
 ![Tech Wave](https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:A29BFE,100:74B9FF&height=140&section=header&animation=fadeIn)
 
-### **💻 TECHNICAL EXPERTISE & ELITE SKILLS**
-
-<div align="center">
-
-![Expertise Level](https://img.shields.io/badge/🔥_EXPERTISE_LEVEL-Enterprise_Grade-2D3436?style=for-the-badge&labelColor=6C5CE7)
-![Stack Mastery](https://img.shields.io/badge/⚡_STACK_MASTERY-Full_Stack_+_Data_Engineering-2D3436?style=for-the-badge&labelColor=4ECDC4)
-![Production Ready](https://img.shields.io/badge/🚀_STATUS-Production_Ready-2D3436?style=for-the-badge&labelColor=00B894)
-
-</div>
+[![Tech Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=500&color=6C5CE7&center=true&vCenter=true&width=1100&height=60&lines=TECHNICAL+EXPERTISE+%26+ELITE+SKILLS;Apache+Spark+•+Kafka+•+BigQuery+•+GCP;TensorFlow+•+scikit-learn+•+MLOps;React+•+Django+REST+•+TypeScript+•+PostgreSQL)](https://git.io/typing-svg)
 
 </div>
 
@@ -242,15 +201,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### **🚀 PRODUCTION-READY PROJECT PORTFOLIO**
-
-<div align="center">
-
-![Production Status](https://img.shields.io/badge/🔥_STATUS-All_Systems_LIVE-2D3436?style=for-the-badge&labelColor=FF6B6B)
-![Real Time](https://img.shields.io/badge/⚡_PERFORMANCE-Real_time_<2s-2D3436?style=for-the-badge&labelColor=FDCB6E)
-![Scale](https://img.shields.io/badge/📊_SCALE-500+_jobs/day-2D3436?style=for-the-badge&labelColor=4ECDC4)
-
-</div>
+[![Projects Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=600&color=FF6B6B&center=true&vCenter=true&width=1000&height=65&lines=PRODUCTION-READY+PROJECT+PORTFOLIO;CyberDetection+•+Real-time+%3C2s+Processing;CarriereAI+•+500%2B+jobs%2Fday+Automation;AI+Media+Detector+•+94%25+Accuracy;All+Systems+Currently+in+PRODUCTION%21)](https://git.io/typing-svg)
 
 </div>
 
@@ -285,15 +236,7 @@
 
 ![Analytics Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,30:4ECDC4,70:6C5CE7,100:45B7D1&height=120&section=header&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Real-time%20Development%20Metrics&descAlignY=55&descSize=14)
 
-### **📈 DEVELOPMENT ANALYTICS & PERFORMANCE METRICS**
-
-<div align="center">
-
-![Daily Commits](https://img.shields.io/badge/📈_COMMITS-2000+_Active_Daily-2D3436?style=for-the-badge&labelColor=4ECDC4)
-![Code Quality](https://img.shields.io/badge/💎_QUALITY-Enterprise_Standards-2D3436?style=for-the-badge&labelColor=00B894)
-![Focus](https://img.shields.io/badge/🎯_FOCUS-Performance_Optimization-2D3436?style=for-the-badge&labelColor=6C5CE7)
-
-</div>
+[![Analytics Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=1000&height=50&lines=2000%2B+Commits+•+Active+Daily+Contributor;100%25+Code+Quality+•+Enterprise+Standards;Performance+Focus+•+Optimization+Expert)](https://git.io/typing-svg)
 
 </div>
 
@@ -303,9 +246,9 @@
 
 <div align="center">
 
-| **📊 Development Performance** | **🎯 Technology Focus** | **🔥 Contribution Patterns** |
-|:---:|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=15&custom_title=Performance%20Analytics) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=15&custom_title=Tech%20Stack%20Distribution) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdeladime2003&theme=algolia&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=6C5CE7&currStreakLabel=FFFFFF&border_radius=15) |
+| Development Stats  | Technology Focus |
+|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
 
 </div>
 
@@ -321,40 +264,14 @@
 </div>
 <div align="center">
 
-### **📈 COMPREHENSIVE DEVELOPMENT ANALYTICS**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdeladime2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&custom_title=📊%20Annual%20Contribution%20Activity%20Analysis)
-
-<div align="center">
-
-| **📊 Performance Metrics** | **🎯 Code Quality** | **⚡ Productivity** | **🌟 Impact Score** |
-|:---:|:---:|:---:|:---:|
-| ![Total Commits](https://img.shields.io/badge/Total_Commits-2000+-FF6B6B?style=for-the-badge&labelColor=2D3436) | ![Code Quality](https://img.shields.io/badge/Quality_Score-A+-00B894?style=for-the-badge&labelColor=2D3436) | ![Daily Average](https://img.shields.io/badge/Daily_Avg-8.5_commits-4ECDC4?style=for-the-badge&labelColor=2D3436) | ![Impact](https://img.shields.io/badge/Impact_Score-95%25-6C5CE7?style=for-the-badge&labelColor=2D3436) |
-
-</div>
-
-### **🔥 TECHNOLOGY EXPERTISE BREAKDOWN**
-
-<div align="center">
-
-![Python Proficiency](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&include_all_commits=true&count_private=true&custom_title=🐍%20Python%20Ecosystem%20Mastery)
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdeladime2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&custom_title=Contribution%20Activity%20Graph)
 
 </div>
 
 <div align="center">
 
 
-### **🏆 ACHIEVEMENTS & PROFESSIONAL RECOGNITION**
-
-<div align="center">
-
-![Elite Performance](https://img.shields.io/badge/🎖️_ELITE_PERFORMANCE-7000+_People_Leadership-2D3436?style=for-the-badge&labelColor=FFD700)
-![Enterprise Impact](https://img.shields.io/badge/💎_ENTERPRISE_IMPACT-99.99%25_Optimization-2D3436?style=for-the-badge&labelColor=FF6B6B)
-![Academic Elite](https://img.shields.io/badge/🥇_ACADEMIC_ELITE-Top_3.3%25_National-2D3436?style=for-the-badge&labelColor=00B894)
-
-</div>
+[![Achievement Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FDCB6E&center=true&vCenter=true&width=1000&height=50&lines=7000%2B+People+Managed+•+Leadership+Excellence;99.99%25+Performance+Improvement+•+Enterprise+Impact;Top+3.3%25+National+Ranking+•+Academic+Elite)](https://git.io/typing-svg)
 
 </div>
 
@@ -381,15 +298,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### **🎯 CAREER TRAJECTORY 2026**
-
-<div align="center">
-
-![Career Focus](https://img.shields.io/badge/🚀_SEEKING-Elite_Data_Engineering_PFE-2D3436?style=for-the-badge&labelColor=6C5CE7)
-![Duration](https://img.shields.io/badge/⏰_DURATION-6+_Months_Enterprise-2D3436?style=for-the-badge&labelColor=4ECDC4)
-![Readiness](https://img.shields.io/badge/🌍_READY-Global_Remote_International-2D3436?style=for-the-badge&labelColor=FF6B6B)
-
-</div>
+[![Career Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3200&pause=800&color=6C5CE7&center=true&vCenter=true&width=1000&height=65&lines=CAREER+TRAJECTORY+2026;Seeking+Elite+Data+Engineering+PFE;6%2B+Months+Enterprise+Challenge;Global+Remote+%26+International+Ready%21)](https://git.io/typing-svg)
 
 </div>
 
@@ -419,15 +328,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### **💼 PROFESSIONAL COLLABORATION & OPPORTUNITIES**
-
-<div align="center">
-
-![Open Collaboration](https://img.shields.io/badge/🤝_STATUS-Open_for_Collaboration-2D3436?style=for-the-badge&labelColor=4ECDC4)
-![PFE Ready](https://img.shields.io/badge/📅_AVAILABLE-PFE_January_2026-2D3436?style=for-the-badge&labelColor=00B894)
-![Enterprise Ready](https://img.shields.io/badge/🏢_READY-Enterprise_Challenges-2D3436?style=for-the-badge&labelColor=FF6B6B)
-
-</div>
+[![Contact Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=700&color=4ECDC4&center=true&vCenter=true&width=1000&height=65&lines=OPEN+FOR+COLLABORATION;Available+for+PFE+Internship+Jan+2026;Ready+for+Enterprise+Challenges;Let's+Build+Something+Amazing%21)](https://git.io/typing-svg)
 
 </div>
 
@@ -448,15 +349,7 @@
 
 <div align="center">
 
-### **💎 EXCELLENCE THROUGH INNOVATION & MEASURABLE IMPACT**
-
-<div align="center">
-
-![Excellence](https://img.shields.io/badge/🌟_PHILOSOPHY-Excellence_Through_Innovation-2D3436?style=for-the-badge&labelColor=6C5CE7)
-![Impact Driven](https://img.shields.io/badge/📊_APPROACH-Measurable_Impact_Driven-2D3436?style=for-the-badge&labelColor=00B894)
-![Ready](https://img.shields.io/badge/🚀_STATUS-January_2026_Ready-2D3436?style=for-the-badge&labelColor=FF6B6B)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=50&lines=Excellence+through+continuous+innovation+and+measurable+impact;Available+January+2026+•+International+Ready+•+Impact-Driven)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&color=4ECDC4&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/abdeladime2003?label=Followers&style=for-the-badge&color=FF6B6B)
