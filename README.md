@@ -259,7 +259,7 @@
 
 | Development Stats | Contribution Streak | Technology Focus |
 |:---:|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladimbenali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdeladimbenali&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FDCB6E&currStreakLabel=FFFFFF&sideLabels=4ECDC4&currStreakNum=FF6B6B&sideNums=FFFFFF&dates=6C5CE7&border_radius=20) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladimbenali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdeladime2003&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FDCB6E&currStreakLabel=FFFFFF&sideLabels=4ECDC4&currStreakNum=FF6B6B&sideNums=FFFFFF&dates=6C5CE7&border_radius=20) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
 
 </div>
 
@@ -281,7 +281,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdeladimbenali&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&custom_title=Contribution%20Activity%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdeladime2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&custom_title=Contribution%20Activity%20Graph)
 
 </div>
 
