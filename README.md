@@ -1,51 +1,83 @@
 <div align="center">
 
-![Header](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=50&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=1000&height=100&lines=ABDELADIM+BENALI;DATA+ENGINEERING+SPECIALIST;ENTERPRISE+SOLUTIONS+ARCHITECT)
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=ABDELADIM%20BENALI&fontSize=50&animation=twinkling&fontAlignY=38&desc=Data%20Engineering%20Specialist%20%7C%20Enterprise%20Solutions%20Architect&descAlignY=51&descSize=18)
 
 </div>
 
 <div align="center">
 
-## **DATA ENGINEERING SPECIALIST** | **INPT STUDENT** | **ENTERPRISE SOLUTIONS ARCHITECT**
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF6347&center=true&vCenter=true&width=800&height=80&lines=DATA+ENGINEERING;SPECIALIST;ENTERPRISE+ARCHITECT;INPT+STUDENT)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=1200&height=50&lines=Building+next-generation+data+platforms+for+enterprise+transformation;Proven+track+record+with+99.99%25+performance+improvements;Expert+in+real-time+systems%2C+cloud+migration%2C+and+ML+infrastructure;Available+for+PFE+Internship+-+January+2026)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Consolas&size=22&duration=3500&pause=800&color=2E8B57&center=true&vCenter=true&width=1200&height=60&lines=🚀+Building+next-generation+data+platforms+for+enterprise+transformation;📊+Proven+track+record+with+99.99%25+performance+improvements;⚡+Expert+in+real-time+systems,+cloud+migration,+ML+infrastructure;💼+Available+for+PFE+Internship+-+January+2026+Ready!)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
 
+<div align="center">
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=fadeIn)
+
+</div>
+
 ## **EXECUTIVE SUMMARY**
 
-```typescript
-interface ProfessionalProfile {
-  name: "Abdeladim Benali";
-  role: "Data Engineering Specialist";
-  education: "INPT - National Institute of Posts & Telecommunications";
-  graduation: 2026;
-  location: "Rabat, Morocco | Paris, France (International Experience)";
-  availability: "PFE Internship - January 2026 (6+ months minimum)";
-  languages: ["Arabic (Native)", "French (Business)", "English (Professional)"];
-  
-  coreCompetencies: {
-    dataEngineering: ["Apache Spark", "Kafka", "BigQuery", "ETL/ELT"];
-    cloudPlatforms: ["Google Cloud Platform", "Docker", "Kubernetes"];
-    machineLearning: ["TensorFlow", "scikit-learn", "MLOps", "Real-time ML"];
-    fullStack: ["React", "Django REST", "TypeScript", "PostgreSQL"];
-  };
-  
-  businessImpact: {
-    performanceImprovement: "99.99% (3-5 days → 10 seconds)";
-    realTimeProcessing: "<2 seconds end-to-end latency";
-    leadershipScale: "7,000+ people managed";
-    budgetResponsibility: "170,000 MAD P&L ownership";
-    nationalRanking: "Top 3.3% (133/4,000)";
-  };
-}
-```
+<div align="center">
 
----
+![Profile Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=500&color=2E8B57&center=true&vCenter=true&width=1000&height=100&lines=👨‍💻+ABDELADIM+BENALI+-+Data+Engineering+Specialist;🎓+INPT+Student+graduating+in+2026;🌍+International+Experience:+Morocco+→+Paris,+France;⚡+Available+for+PFE+Internship+January+2026;🚀+Expert+in+Apache+Spark,+Kafka,+BigQuery,+ML+Infrastructure;📊+99.99%25+performance+improvements+delivered;💼+7,000%2B+people+managed,+170K+MAD+budget+responsibility;🏆+Top+3.3%25+nationally+ranked+(133/4000);🔥+Ready+for+elite+enterprise+opportunities!)
+
+</div>
+
+**🎯 PROFESSIONAL PROFILE OVERVIEW:**
+
+<div align="center">
+
+| **Category** | **Details** |
+|:-------------|:------------|
+| **🎓 Education** | INPT - National Institute of Posts & Telecommunications |
+| **📅 Graduation** | 2026 |
+| **🌍 Location** | Rabat, Morocco \| Paris, France (International Experience) |
+| **💼 Availability** | PFE Internship - January 2026 (6+ months minimum) |
+| **🗣️ Languages** | Arabic (Native) • French (Business) • English (Professional) |
+
+</div>
+
+**🚀 CORE COMPETENCIES:**
+
+<div align="center">
+
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-Apache_Spark•Kafka•BigQuery•ETL/ELT-2E8B57?style=for-the-badge)
+![Cloud Platforms](https://img.shields.io/badge/Cloud_Platforms-GCP•Docker•Kubernetes-1E90FF?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-TensorFlow•scikit--learn•MLOps•Real--time_ML-FF6347?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full_Stack-React•Django_REST•TypeScript•PostgreSQL-9966CC?style=for-the-badge)
+
+</div>
+
+**📊 BUSINESS IMPACT METRICS:**
+
+<div align="center">
+
+![Performance](https://img.shields.io/badge/Performance_Improvement-99.99%25_(3--5_days_→_10_seconds)-success?style=for-the-badge&logo=trending-up)
+![Real Time](https://img.shields.io/badge/Real_Time_Processing-<2_seconds_end--to--end-critical?style=for-the-badge&logo=zap)
+![Leadership](https://img.shields.io/badge/Leadership_Scale-7,000%2B_people_managed-blue?style=for-the-badge&logo=users)
+![Budget](https://img.shields.io/badge/Budget_Responsibility-170,000_MAD_P&L-green?style=for-the-badge&logo=money-bill)
+![Ranking](https://img.shields.io/badge/National_Ranking-Top_3.3%25_(133/4,000)-gold?style=for-the-badge&logo=trophy)
+
+</div>
+
+<div align="center">
+
+![Wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,33&height=120&section=header&animation=fadeIn)
+
+</div>
 
 ## **PROFESSIONAL EXPERIENCE**
+
+<div align="center">
+
+![Experience Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=700&color=1E90FF&center=true&vCenter=true&width=900&height=50&lines=💼+Enterprise+Experience+in+Morocco+%26+France;🏢+Bouygues+Telecom+%7C+4D+Logiciel+Morocco;⚡+99.99%25+Performance+Improvements+Delivered;🚀+Ready+for+your+next+big+challenge!)</div>
 
 ### **BOUYGUES TELECOM** | Paris, France | **Data Engineer Intern**
 **June - August 2025** | **Enterprise BI Migration & Automation Platform**
@@ -95,7 +127,13 @@ interface ProfessionalProfile {
 
 **Technology Stack:** `React` `TypeScript` `Redux` `ReactFlow` `TailwindCSS` `REST API` `Node.js`
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+![Education Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=600&color=FFD700&center=true&vCenter=true&width=1000&height=70&lines=🎓+ACADEMIC+EXCELLENCE+%26+ELITE+LEADERSHIP;🏆+Top+3.3%25+Nationally+Ranked;👑+7,000%2B+People+Managed+Successfully;💰+170K+MAD+Budget+Responsibility)
+
+</div>
 
 ## **EDUCATION & LEADERSHIP**
 
@@ -156,7 +194,13 @@ interface ProfessionalProfile {
 - **Operational Excellence:** Zero incidents with flawless event execution
 - **Innovation Leadership:** Introduced new event formats and engagement strategies
 
----
+<div align="center">
+
+![Tech Wave](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=140&section=header&animation=fadeIn)
+
+![Tech Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=500&color=9966CC&center=true&vCenter=true&width=1100&height=60&lines=💻+TECHNICAL+EXPERTISE+%26+ELITE+SKILLS;🔧+Apache+Spark+•+Kafka+•+BigQuery+•+GCP;🤖+TensorFlow+•+scikit-learn+•+MLOps;⚛️+React+•+Django+REST+•+TypeScript+•+PostgreSQL)
+
+</div>
 
 ## **TECHNICAL EXPERTISE**
 
@@ -193,7 +237,13 @@ interface ProfessionalProfile {
 ![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Intermediate-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+![Projects Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=600&color=FF4500&center=true&vCenter=true&width=1000&height=65&lines=🚀+PRODUCTION-READY+PROJECT+PORTFOLIO;🔒+CyberDetection+•+Real-time+<2s+Processing;🤖+CarriereAI+•+500%2B+jobs/day+Automation;🎭+AI+Media+Detector+•+94%25+Accuracy;📊+All+Systems+Currently+in+PRODUCTION!)
+
+</div>
 
 ## **PROJECT PORTFOLIO**
 
@@ -222,17 +272,21 @@ interface ProfessionalProfile {
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Real-time%20Development%20Metrics&descAlignY=55&descSize=14"/>
+
+![Analytics Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=1000&height=50&lines=📈+2000%2B+Commits+•+Active+Daily+Contributor;🏆+100%25+Code+Quality+•+Enterprise+Standards;⚡+Performance+Focus+•+Optimization+Expert)
+
+</div>
+
 ## **GITHUB ANALYTICS**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Abdeladim's%20GitHub%20Statistics)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdeladime2003&theme=dark&hide_border=true&stroke=2E8B57&ring=1E90FF&fire=FF6347&currStreakLabel=1E90FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=dark&hide_border=true&langs_count=10)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdeladime2003&theme=github-compact&hide_border=true&radius=5)
+| 📊 **Development Stats** | 🔥 **Contribution Streak** | 🎯 **Technology Focus** |
+|:---:|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladimbenali&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdeladimbenali&theme=tokyonight&hide_border=true&border_radius=20) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladimbenali&layout=compact&theme=tokyonight&hide_border=true&border_radius=20) |
 
 </div>
 
@@ -252,7 +306,13 @@ interface ProfessionalProfile {
 - **2025:** Professional Projects (203 contributions - consistent excellence)
 - **Total:** 429+ contributions with exponential growth trajectory
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFA500&height=120&section=header&text=ACHIEVEMENTS&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Professional%20Excellence%20%26%20Recognition&descAlignY=55&descSize=14"/>
+
+![Achievement Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=1000&height=50&lines=🏆+7000%2B+People+Managed+•+Leadership+Excellence;🎯+99.99%25+Performance+Improvement+•+Enterprise+Impact;🥇+Top+3.3%25+National+Ranking+•+Academic+Elite)
+
+</div>
 
 ## **ACHIEVEMENTS & RECOGNITION**
 
@@ -282,7 +342,13 @@ interface ProfessionalProfile {
 - **Elite Institution** - Outstanding performance at INPT, Morocco's premier engineering school
 - **Specialized Focus** - Advanced curriculum in Data Engineering, Big Data, and Machine Learning
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+![Career Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3200&pause=800&color=9370DB&center=true&vCenter=true&width=1000&height=65&lines=🎯+CAREER+TRAJECTORY+2026;🚀+Seeking+Elite+Data+Engineering+PFE;🌟+6%2B+Months+Enterprise+Challenge;🌍+Global+Remote+%26+International+Ready!)
+
+</div>
 
 ## **CAREER OBJECTIVES**
 
@@ -321,7 +387,13 @@ interface ProfessionalProfile {
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+![Contact Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=32CD32&center=true&vCenter=true&width=1000&height=65&lines=💼+OPEN+FOR+COLLABORATION;🌍+Available+for+PFE+Internship+Jan+2026;🚀+Ready+for+Enterprise+Challenges;📧+Let's+Build+Something+Amazing!)
+
+</div>
 
 ## **PROFESSIONAL CONTACT**
 
