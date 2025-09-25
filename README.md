@@ -150,21 +150,13 @@
 ### INPT OLYMPICS 2024 - EXECUTIVE DIRECTOR
 <div align="center">
 
-![Participants](https://progress-bar.dev/70/?scale=100&title=7000%2B%20Participants&width=250&color=ff6b6b&suffix=+)
-![Budget](https://progress-bar.dev/85/?scale=100&title=170K%20MAD%20Budget&width=250&color=4ecdc4&suffix=)
-![Teams](https://progress-bar.dev/75/?scale=100&title=15%2B%20Teams&width=250&color=a29bfe&suffix=+)
-![Success](https://progress-bar.dev/100/?scale=100&title=Zero%20Incidents&width=250&color=00b894&suffix=)
+![Participants](https://img.shields.io/badge/Participants-7,000+-FF6B6B?style=for-the-badge&labelColor=2D3748&logo=users&logoColor=white)
+![Budget](https://img.shields.io/badge/Budget-170K_MAD-4ECDC4?style=for-the-badge&labelColor=2D3748&logo=money-check-alt&logoColor=white)
+![Teams](https://img.shields.io/badge/Teams_Managed-15+-A29BFE?style=for-the-badge&labelColor=2D3748&logo=people-group&logoColor=white)
+![Success](https://img.shields.io/badge/Execution-Zero_Incidents-00B894?style=for-the-badge&labelColor=2D3748&logo=check-circle&logoColor=white)
 
 </div>
 
-<div align="center">
-
-![Participants](https://progress-bar.dev/70/?scale=100&title=7000%2B%20Participants&width=250&color=ff6b6b&suffix=00+)
-![Budget](https://progress-bar.dev/85/?scale=100&title=170K%20MAD%20Budget&width=250&color=4ecdc4&suffix=%)
-![Teams](https://progress-bar.dev/75/?scale=100&title=15%2B%20Teams&width=250&color=a29bfe&suffix=+)
-![Success](https://progress-bar.dev/100/?scale=100&title=Zero%20Incidents&width=250&color=00b894&suffix=%)
-
-</div>
 
 <div align="center">
 
