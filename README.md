@@ -238,7 +238,8 @@
 <div align="center">
 
 [![CarriereAI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=Job_Recommendation&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/Job_Recommendation/I)
-[![CyberDetection](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CyberDetection&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/CyberDetection)
+[![CyberDetection](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CTI&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/CTI)
+[![AI-Media-Authenticity-Detector](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=AI-Media-Authenticity-Detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/AI-Media-Authenticity-Detector)
 
 </div>
 
