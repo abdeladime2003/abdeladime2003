@@ -1,105 +1,81 @@
-# Hi, I’m @abdeladime2003
+# Salut ! 👋 Je suis Abdeladim Benali
 
-## About Me
-- 👀 I’m interested in **data science** and **data engineering**.
--  I’m currently learning data engineering, focusing on:
-  - Programming languages: Python, SQL
-  - Big data technologies: Hadoop, Spark
-  - Data warehousing: Amazon Redshift, Google BigQuery
-  - Data visualization: Tableau, Power BI
-- 💼 I’m passionate about turning data into actionable insights and building efficient data pipelines.
--  I’m looking to collaborate on projects involving:
-  - Data analysis and visualization
-  - Building and optimizing data pipelines
-  - Implementing machine learning models
-- 📫 How to reach me:
-  - Email: [abdeladimebenali2003@gmail.com](mailto:abdeladimebenali2003@gmail.com)
-  - LinkedIn: [linkedin.com/in/abdeladime2003]([https://linkedin.com/in/abdeladime200](https://www.linkedin.com/in/abdeladime-benali-83579a284/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BTJBgDVU0SAerc20e1S4Djg%3D%3D)3)
--  Pronouns: He/Him
+## 🚀 Data Engineering Student @ INPT
 
-## Skills
-- **Programming Languages:** Python, SQL
-- **Data Warehousing:** Amazon Redshift, Google BigQuery
-- **Data Visualization:** Tableau, Power BI
-- **Machine Learning:** Scikit-learn, TensorFlow
+Passionné par l'ingénierie des données et l'intelligence artificielle, je transforme les données en solutions concrètes. Actuellement en dernière année d'ingénierie Data à l'INPT, je cherche un stage de 6 mois à partir de janvier 2026.
 
-## Projects
+### 🔭 Ce que je fais actuellement
+- 🎓 Finalisation de mon diplôme d'ingénieur en Data Engineering à l'INPT
+- 💼 Recherche d'un stage de 6 mois en Data Engineering (disponible janvier 2026)
+- 🛠️ Développement de projets open source en streaming de données et ML
 
-### Uniting Web Scraping, Data Analysis, ML Modeling, and Streamlit Visualization
-Our project integrates key processes essential for data scientists:
-1. **Data Acquisition:** Web scraping of Transfermarkt and FIFA Stats websites.
-2. **Data Manipulation and Preprocessing:** Constructing a predictive model using techniques like linear regression.
-3. **Model Deployment:** Using Streamlit to develop an application allowing interactive feature adjustments and player fee predictions.
+### ⚡ Réalisations marquantes
+- **Bouygues Telecom** : Automatisation des migrations Teradata→BigQuery (3-5 jours → 10 secondes) 🚀
+- **4D Logiciel** : Construction d'un éditeur ETL visuel avec optimisation des pipelines (-40% temps de réponse) ⚡
+- **INPT Olympics** : Direction d'un événement de 7000+ participants avec budget de 170k Dh 🏆
 
-**Project Structure:**
-- **python_project:** Contains the main Python code.
-  - **step1:** Initial steps, including data preprocessing and web scraping notebooks.
-  - **step2:** Intermediate steps with model training.
-  - **step3:** Final steps with data preprocessing class, video demonstration, and website interface.
+## 🛠️ Stack Technique
 
-**Directories:**
-- `data`: Contains CSV files with datasets.
-- `virtuel_environement`: Virtual environment setup files.
+### Core Data Engineering
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
-**Usage:**
-1. Clone the repository: `git clone https://github.com/votre-nom-utilisateur/projet_baina.git`
-2. Install virtual environment: `python -m venv venv`
-3. Activate virtual environment: `venv\Scripts\activate`
-4. Install dependencies: `pip install -r requirements.txt`
-5. Navigate and execute scripts or notebooks within the `python_project` directory.
+### Cloud & Big Data
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 
-**Dependencies:** Ensure required dependencies from `virtuel_environement/requirements.txt` are installed.
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MLlib](https://img.shields.io/badge/-MLlib-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
-**Project Demonstration:** [Google Drive Link](https://drive.google.com)
+### Développement Full-Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Gestionnaire de Football
-A Java and JavaFX application to manage football-related entities such as teams, transfers, and competitions.
+## 📊 Projets Phares
 
-**Main Features:**
-1. **Team Management:** Add, modify, and delete teams; view team details.
-2. **Transfer Management:** Track player transfers, including details like amounts and dates.
-3. **Competition Management:** Create, schedule, and manage football competitions; view match results and team statistics.
-4. **User-Friendly Interface:** Four graphical windows (CompetitionWindow, EquipeWindow, TransfertWindow, LoginWindow) and a main coordination window.
+### 🔒 [Real-Time Cybersecurity Detection System](https://github.com/abdeladime2003/cybersecurity-detection)
+Plateforme de streaming distribuée avec Kafka & PySpark pour l'analyse de logs en temps réel et la détection d'attaques basée sur ML
+- **Tech Stack**: Kafka, PySpark, MLlib, MongoDB
+- **Performance**: Alertes <2s avec monitoring automatisé
 
-**Technologies Used:**
-- **Programming Language:** Java
-- **Graphical Library:** JavaFX
+### 💼 [CarriereAI - Job Recommendation Platform](https://github.com/abdeladime2003/carriere-ai)
+Pipeline end-to-end pour le scraping multi-source d'offres d'emploi avec matching CV-offre via OCR/NLP
+- **Tech Stack**: Python, Apache Spark, Scala, React, Django
+- **Capacité**: 500+ offres/jour avec matching intelligent
 
-### Portfolio
-Personal portfolio showcasing skills, projects, and contact information.
+### 🎯 [AI Media Authenticity Detector](https://github.com/abdeladime2003/ai-media-detector)
+CNN basé sur VGG16 avec transfer learning pour détecter les images générées/manipulées par IA
+- **Tech Stack**: Python, TensorFlow, OpenCV, VGG16
+- **Résultat**: Haute précision dans la vérification d'authenticité des médias numériques
 
-**Project Structure:**
-- **Html_file:** Contains HTML files for each page (Contact-Me.html, My_profile.html, etc.).
-- **Css_File:** Contains CSS files for styling each page (Acceuil.css, Contact-Me.css, etc.).
-- **Icon and images:** Contains images and icons used in the pages.
-- **Main_File:** Main HTML file to start the portfolio.
-- **Demo.txt:** Link to video demonstration on Google Drive.
+## 📈 GitHub Stats
 
-**Usage:** Open the main HTML file in any HTML5-compatible web browser.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-### Stock Market Prediction with LightGBM
-Developing a robust machine learning model using LightGBM for predicting stock prices based on historical data.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-**Key Features:**
-- Utilizes LightGBM for regression tasks.
-- Implements advanced data preprocessing techniques.
-- Generates key indicators like spread, mid-price, and RSI for feature engineering.
-- Visualizes correlations and feature importances.
+## 🌍 Langues
+- 🇫🇷 **Français** (Courant)
+- 🇬🇧 **Anglais** (Professionnel)  
+- 🇲🇦 **Arabe** (Natif)
 
-**Getting Started:**
-1. Clone the repository: `git clone https://github.com/abdeladime2003/Optiver-Trading-at-the-close.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Explore the Jupyter notebooks in the `Stormy` directory.
+## 📫 Contact
 
-**Files Structure:**
-- **data:** Contains the link to download the data.
-- **Stormy:** Includes Jupyter notebooks for data preprocessing, model training, and evaluation.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdeladime-benali)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://abdeladimebenali.me)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdeladimebenali2003@gmail.com)
 
-**License:** This project is licensed under the MIT License.
+---
 
-**Acknowledgments:** Thanks to the open-source community and the developers of LightGBM.
-
-<!---
-abdeladime2003/abdeladime2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **Ouvert aux opportunités** : Stage Data Engineering - 6 mois - Disponible janvier 2026
