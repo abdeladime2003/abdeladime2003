@@ -288,10 +288,10 @@
 
 <div align="center">
 
-![Leadership](https://progress-bar.dev/100/?scale=100&title=Leadership%20Excellence&width=400&color=ff6b6b&suffix=%207000%2B%20managed)
-![Performance](https://progress-bar.dev/99/?scale=100&title=Performance%20Optimization&width=400&color=00b894&suffix=.99%25%20improvement)
-![Academic](https://progress-bar.dev/97/?scale=100&title=Academic%20Achievement&width=400&color=6c5ce7&suffix=%20Top%203.3%25)
-![International](https://progress-bar.dev/95/?scale=100&title=International%20Experience&width=400&color=4ecdc4&suffix=%20FR%20%26%20MA)
+![Leadership](https://img.shields.io/badge/Leadership_Excellence-7,000+_managed-FF6B6B?style=for-the-badge&labelColor=2D3748)
+![Performance](https://img.shields.io/badge/Performance_Optimization-99.99%25_improvement-00B894?style=for-the-badge&labelColor=2D3748)
+![Academic](https://img.shields.io/badge/Academic_Achievement-Top_3.3%25-6C5CE7?style=for-the-badge&labelColor=2D3748)
+![International](https://img.shields.io/badge/International_Experience-FR_%26_MA-4ECDC4?style=for-the-badge&labelColor=2D3748)
 
 </div>
 
