@@ -229,13 +229,7 @@
       <br>
       <i>Real-time cybersecurity threat detection with streaming analytics &lt;2s</i>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/Portfolio"><b>💼 Portfolio Platform</b></a><br>
-      <code>React • Django REST • PostgreSQL • Docker</code><br>
-      <img src="https://img.shields.io/github/stars/abdeladime2003/Portfolio?style=social" />
-      <br>
-      <i>Modern full-stack portfolio with project management and contact system</i>
-    </td>
+ 
   </tr>
 </table>
 
@@ -294,9 +288,9 @@
 
 ### 📊 Development Performance Dashboard
 
-| Development Stats  | Contribution Streak | Technology Focus |
-|:---:|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdeladime2003&theme=radical&hide_border=true&bg_color=0D1117&border_radius=20) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
+| Development Stats  |  Technology Focus |
+|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
 
 </div>
 
@@ -324,7 +318,7 @@
 <div align="center">
 
 ![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20&langs_count=8)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdeladime2003&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20&layout=compact)
+
 
 </div>
 
