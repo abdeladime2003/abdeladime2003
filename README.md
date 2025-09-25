@@ -259,7 +259,7 @@
 
 | Development Stats | Contribution Streak | Technology Focus |
 |:---:|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) | ![GitHub Streak](https://streak-stats.demolab.com/?user=abdeladime2003&theme=dark&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FDCB6E&currStreakLabel=FFFFFF&sideLabels=4ECDC4&currStreakNum=FF6B6B&sideNums=FFFFFF&dates=6C5CE7) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) | [![GitHub Streak](https://streak-stats.demolab.com/abdeladime2003?theme=dark&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FDCB6E)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
 
 </div>
 
