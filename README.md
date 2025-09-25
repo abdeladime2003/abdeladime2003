@@ -445,5 +445,4 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer)
 
 </div>
-fais ca et plus de grphe de stats 
-et professioanlisme
+
