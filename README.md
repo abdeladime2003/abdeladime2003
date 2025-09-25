@@ -213,10 +213,10 @@
 
 | Project | Business Impact | Technology Stack | Performance |
 |:--------|:----------------|:-----------------|:-----------:|
-| **CyberDetection** | Real-time threat detection | Kafka • PySpark • MLlib | ![Performance](https://progress-bar.dev/98/?scale=100&title=&width=120&color=00b894&suffix=%) |
-| **CarriereAI** | 500+ jobs/day automation | Spark • Scala • NLP • OCR | ![Performance](https://progress-bar.dev/95/?scale=100&title=&width=120&color=fdcb6e&suffix=%) |
-| **AI Media Detector** | 94% accuracy detection | TensorFlow • VGG16 • OpenCV | ![Performance](https://progress-bar.dev/94/?scale=100&title=&width=120&color=6c5ce7&suffix=%) |
-| **ETL Analytics** | Automated data warehouse | Python • SQLite • PowerBI | ![Performance](https://progress-bar.dev/92/?scale=100&title=&width=120&color=ff6b6b&suffix=%) |
+| **CyberDetection** | Real-time threat detection | Kafka • PySpark • MLlib | ![Performance](https://img.shields.io/badge/Performance-98%25-00b894?style=flat-square) |
+| **CarriereAI** | 500+ jobs/day automation | Spark • Scala • NLP • OCR | ![Performance](https://img.shields.io/badge/Performance-95%25-fdcb6e?style=flat-square) |
+| **AI Media Detector** | 94% accuracy detection | TensorFlow • VGG16 • OpenCV | ![Performance](https://img.shields.io/badge/Performance-94%25-6c5ce7?style=flat-square) |
+| **ETL Analytics** | Automated data warehouse | Python • SQLite • PowerBI | ![Performance](https://img.shields.io/badge/Performance-92%25-ff6b6b?style=flat-square) |
 
 </div>
 
