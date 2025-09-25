@@ -1,275 +1,283 @@
-# Abdeladim Benali
-
-**Data Engineering Student** • **Cloud Migration Specialist** • **ML Systems Developer**
-
-**National Institute of Posts and Telecommunications (INPT)** | **Available January 2026**
-
----
-
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Data%20Engineering%20Excellence&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Real-Time%20Systems%20•%20Cloud%20Architecture%20•%20ML%20Infrastructure&descAlignY=55&descSize=18)
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Abdeladim%20Benali&fontSize=90&fontAlign=70&fontAlignY=40&fontColor=fff&animation=fadeIn&desc=Data%20Engineering%20%E2%80%A2%20Cloud%20Architecture%20%E2%80%A2%20ML%20Systems&descAlign=70&descAlignY=60&descSize=20)
 
 </div>
 
-## Professional Summary
-
-Final-year Data Engineering student with hands-on experience in cloud migration and AI/ML systems. Successfully reduced enterprise dashboard processing from days to seconds through automated pipeline development at Bouygues Telecom. Currently seeking 6-month data engineering internship opportunities starting January 2026.
-
-**Core Expertise**: Enterprise data migrations, real-time streaming systems, machine learning infrastructure, full-stack development for data platforms.
-
----
-
-## Technical Impact & Achievements
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Engineering+Student+at+INPT;Cloud+Migration+Specialist;Real-time+ML+Systems+Developer;Teradata+→+BigQuery+Expert;Building+Next-Gen+Data+Platforms&font=Fira%20Code&center=true&width=700&height=60&color=58a6ff&vCenter=true&pause=1000&size=22" />
+</h1>
 
 <div align="center">
 
-| **Project Domain** | **Key Achievement** | **Technologies** |
-|:-------------------|:-------------------|:-----------------|
-| **Enterprise Migration** | `3-5 days → 10 seconds` processing time | Teradata, BigQuery, GCP, Django |
-| **Visual ETL Systems** | `40% response time reduction` | React, TypeScript, Redux, REST APIs |
-| **Real-time Detection** | `<2s alert delivery` with ML | Kafka, PySpark, MLlib, MongoDB |
-| **Job Matching Platform** | `500+ jobs/day` processing capacity | Spark, Scala, OCR/NLP, Django |
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+Reduced+Processing+Time:+3-5+days+→+10s;⚡+Real-time+Systems:+%3C2s+Latency;🎯+Enterprise+Scale:+99.9%25+Uptime;💡+Innovation+Through+Data+Engineering&font=Consolas&center=true&width=800&height=45&color=f39c12&vCenter=true&pause=2000&size=18)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Professional Experience
-
-### **Data Engineer Intern** | *Bouygues Telecom Morocco* | *June 2025 - August 2025*
-
-**Enterprise Dashboard Migration Platform**
-- Automated Teradata→BigQuery dashboard migrations reducing processing time from 3-5 days to 10 seconds
-- Built full-stack platform deployed across multiple business units
-- **Technology Stack**: Python, SQL, BigQuery, GCP, Docker, Django REST Framework, Tableau Server API
-- **Business Impact**: Enabled real-time business intelligence for enterprise decision-making
-
-### **Data Developer Intern** | *4D Logiciel Morocco* | *June 2024 - July 2024*
-
-**Visual ETL Pipeline Editor**
-- Developed visual ETL pipeline editor with specialized nodes for ingestion, transformation, validation, and error handling
-- Optimized pipelines with orchestration and caching resulting in 40% response time reduction
-- **Technology Stack**: React, TypeScript, Redux, REST APIs
-- **Innovation**: Democratized data pipeline development through intuitive visual interface
-
----
-
-## Technical Project Portfolio
-
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=python,scala,kafka,spark,gcp,docker,react,typescript,tensorflow,mongodb,postgresql,redis&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/abdeladime2003?label=Followers&style=for-the-badge&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/abdeladime2003?label=Stars&style=for-the-badge&color=yellow)
 
 </div>
 
-### **Real-Time Cybersecurity Detection System** | *Academic Research*
-*Distributed streaming platform for ML-based threat detection*
-
-**Technical Architecture**:
-- Kafka-based streaming ingestion for real-time log analysis
-- PySpark Structured Streaming for distributed processing
-- MLlib integration for automated attack detection
-- MongoDB for time-series data storage with sub-2s alert delivery
-
-**Performance Metrics**:
-- Real-time processing with <2s end-to-end latency
-- Automated monitoring and alert system
-- Scalable distributed architecture
-
-### **CarriereAI - Intelligent Job Matching Platform** | *Personal Project*
-*End-to-end pipeline for automated CV-job matching*
-
-**System Components**:
-- Multi-source job scraping pipeline processing 500+ jobs daily
-- Apache Spark and Scala for distributed data processing
-- OCR and NLP integration for intelligent CV-job matching
-- Django REST API with React frontend interface
-
-**Key Features**:
-- Automated CV and cover letter generation
-- Semantic job matching algorithms
-- Real-time processing capabilities
-- Scalable microservices architecture
-
-### **AI Media Authenticity Detector** | *Computer Vision Research*
-*VGG16-based CNN for detecting AI-generated content*
-
-**Technical Implementation**:
-- VGG16 architecture with transfer learning optimization
-- Data augmentation and OpenCV preprocessing pipeline
-- High-accuracy detection of AI-generated and manipulated images
-- Production-ready deployment with batch processing support
-
-**Research Impact**:
-- Robust digital media authenticity verification
-- Advanced computer vision techniques
-- Scalable inference pipeline
-
-### **Advanced Image Classification System** | *Deep Learning Project*
-*Multi-class image classification with 94% accuracy*
-
-**Architecture Details**:
-- Custom CNN architecture with ResNet50 transfer learning
-- Comprehensive data preprocessing and augmentation pipeline
-- Advanced evaluation metrics and model optimization
-- **Performance**: 94% classification accuracy on test dataset
-
-### **Complete ETL Data Pipeline** | *Data Engineering Project*
-*End-to-end data lifecycle for animation department analytics*
-
-**Pipeline Components**:
-- Multi-source data extraction (CSV, APIs, databases)
-- Python-based transformation with star schema design
-- SQLite data warehouse with optimized indexing
-- Power BI dashboard with interactive visualizations
-- Automated processing with Cron job scheduling
-
-**Business Value**:
-- Time allocation and resource utilization tracking
-- Automated reporting for management decisions
-- Scalable ETL architecture pattern
-
----
-
-## Core Technical Competencies
-
-### **Data Engineering & Cloud Architecture**
-**Languages**: Python (Advanced), SQL (Advanced), Scala  
-**Streaming**: Apache Kafka, PySpark Streaming, real-time processing  
-**Cloud Platforms**: Google Cloud Platform (BigQuery, Dataflow), Docker containerization  
-**Data Orchestration**: Apache Airflow, ETL/ELT pipelines, automated scheduling
-
-### **Machine Learning & AI Systems**
-**ML Frameworks**: TensorFlow, PyTorch, Spark MLlib  
-**Computer Vision**: OpenCV, CNN architectures, transfer learning, VGG16  
-**NLP**: Text processing, OCR integration, semantic analysis  
-**MLOps**: Model deployment, automated retraining, performance monitoring
-
-### **Enterprise Development**
-**Backend**: Django REST Framework, FastAPI, microservices  
-**Frontend**: React, TypeScript, Redux, responsive design  
-**Databases**: PostgreSQL, MongoDB, Redis caching, Teradata  
-**Integration**: REST APIs, Tableau Server API, enterprise connectors
-
----
-
-## GitHub Analytics & Development Journey
+## 🎯 Impact Metrics & Achievements
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&color=blue&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/abdeladime2003?label=Followers&style=flat-square&color=blue)
-
-</div>
-
-### **Contribution Growth Trajectory**
-
-<div align="center">
-
-| **Year** | **Contributions** | **Development Focus** |
-|:--------:|:----------------:|:---------------------|
-| **2023** | 2 | Foundation & Learning |
-| **2024** | 224 | Accelerated Development |
-| **2025** | 203 | Professional Projects |
-
-**Total**: **429 contributions** demonstrating consistent technical growth and project delivery
-
-</div>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&icon_color=58a6ff&count_private=true)](https://github.com/abdeladime2003)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&langs_count=8)](https://github.com/abdeladime2003)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdeladime2003&theme=dark&hide_border=true&ring=58a6ff&currStreakLabel=58a6ff&fire=58a6ff)](https://github.com/abdeladime2003)
+| **Achievement** | **Impact** | **Technology Stack** |
+|:---------------:|:----------:|:--------------------:|
+| 🔄 **Enterprise Migration** | `3-5 days → 10 seconds` (99.99% improvement) | Teradata → BigQuery + GCP |
+| ⚡ **Pipeline Optimization** | `40% response time reduction` | React + TypeScript + Redux |
+| 🛡️ **Real-time Detection** | `<2s alert delivery` at scale | Kafka + PySpark + MLlib |
+| 🤖 **AI Job Matching** | `500+ jobs/day` processing | Spark + Scala + OCR/NLP |
+| 🏆 **Event Leadership** | `7,000+ participants` managed | 170K MAD budget |
 
 </div>
 
 ---
 
-## Academic Excellence & Leadership
+## 🚀 About Me
 
-### **Educational Background**
-
-**National Institute of Posts and Telecommunications (INPT)** | *2023-2026*  
-*Engineering Degree in Data Engineering* | Rabat, Morocco  
-Premier Moroccan institution for telecommunications and data technology education
-
-**Mathematics-Physics Preparatory Classes** | *2021-2023*  
-*Ranked 133 out of 4,000 candidates* | Top 3.3% National Performance  
-Common National Exam (CNC) - Morocco's most competitive academic examination
-
-### **Leadership & Management Experience**
-
-**Event Organization Lead** | *INPT Olympics 2024*  
-*Morocco's Premier Inter-School Engineering Competition*
-- Successfully directed event with 7,000+ participants over 3 days
-- Led 15+ cross-functional team members across multiple technical domains
-- Managed budget of 170,000 MAD with full financial accountability
-- Coordinated logistics, corporate partnerships, and multi-venue operations
-- Delivered zero-incident event execution with comprehensive stakeholder management
-
----
-
-## Featured Repository Highlights
-
-### **📊 [CarriereAI](https://github.com/abdeladime2003/CarriereAI)**
-Complete job recommendation platform with Spark/Scala processing and intelligent matching
-
-### **🔒 [CyberDetection](https://github.com/abdeladime2003/CyberDetection)**  
-Real-time cybersecurity detection using distributed streaming and machine learning
-
-### **🤖 [AI-Media-Detector](https://github.com/abdeladime2003/ai-media-detector)**
-VGG16-based CNN for detecting AI-generated and manipulated media content
-
-### **⚡ [ETL-Pipeline](https://github.com/abdeladime2003/ETL_Pipeline)**
-End-to-end data engineering pipeline with automated processing and visualization
-
-### **🎯 [ImageClassification](https://github.com/abdeladime2003/ImageClassification)**
-Advanced deep learning model achieving 94% accuracy on multi-class classification
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Abdeladim Benali"
+        self.role = "Final-year Data Engineering Student"
+        self.university = "INPT (Morocco)"
+        self.location = "Rabat, Morocco"
+        self.languages = ["Arabic", "French", "English"]
+        self.available_from = "January 2026"
+        
+    def current_focus(self):
+        return [
+            "Enterprise cloud migrations",
+            "Real-time ML systems",
+            "Distributed data processing",
+            "Full-stack data platforms"
+        ]
+    
+    def achievement_highlights(self):
+        return {
+            "enterprise_impact": "99.99% processing time reduction",
+            "real_time_performance": "<2s end-to-end latency",
+            "team_leadership": "15+ cross-functional members",
+            "budget_management": "170,000 MAD responsibility"
+        }
+```
 
 ---
 
-## Global Professional Profile
+## 🛠️ Tech Arsenal & Expertise
 
-**Languages**: Arabic (Native) • French (Fluent) • English (Professional)  
-**Location**: Rabat, Morocco  
-**Work Authorization**: Available for international opportunities  
-**Remote Collaboration**: Experienced in distributed team coordination
+<div align="center">
+
+### **🏗️ Data Engineering & Cloud**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+### **🤖 AI/ML & Deep Learning**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MLlib](https://img.shields.io/badge/-MLlib-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+### **💻 Full-Stack Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### **🗄️ Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Teradata](https://img.shields.io/badge/-Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+
+</div>
 
 ---
 
-## Professional Networks & Contact
+## 📈 GitHub Analytics & Activity
+
+<div align="center">
+
+<details>
+<summary>📊 <b>Contribution Growth Journey</b></summary>
+<br>
+
+| **Year** | **Contributions** | **Focus Area** | **Growth** |
+|:--------:|:----------------:|:---------------|:----------:|
+| **2023** | 2 | Foundation & Learning | Starting Point |
+| **2024** | 224 | Accelerated Development | **+11,100%** |
+| **2025** | 203 | Professional Projects | Consistent |
+| **Total** | **429** | **Continuous Growth** | **📈** |
+
+</details>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdeladime2003&theme=tokyonight&hide_border=true&ring=70a5fd&currStreakLabel=70a5fd&fire=bf91f3)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27&langs_count=10)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdeladime2003&theme=tokyo-night&hide_border=true&radius=16)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdeladime2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6)
+
+</div>
+
+---
+
+## 🚀 Featured Projects Portfolio
+
+<div align="center">
+
+[![CarriereAI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CarriereAI&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27)](https://github.com/abdeladime2003/CarriereAI)
+[![CyberDetection](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CyberDetection&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27)](https://github.com/abdeladime2003/CyberDetection)
+
+[![AI-Media-Detector](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=ai-media-detector&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27)](https://github.com/abdeladime2003/ai-media-detector)
+[![ETL-Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=ETL_Pipeline&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27)](https://github.com/abdeladime2003/ETL_Pipeline)
+
+</div>
+
+---
+
+## 💼 Professional Experience & Impact
+
+<div align="center">
+
+### 🏢 **Bouygues Telecom Morocco** | *Data Engineer Intern* | *June-August 2025*
+
+**Enterprise BI Migration Platform**
+- 🎯 **Challenge**: Legacy Teradata systems creating 3-5 day processing bottlenecks
+- 🚀 **Solution**: Full-stack BigQuery migration platform with automated pipelines
+- 📊 **Impact**: **99.99% processing time reduction** + **Zero downtime** deployment
+- 🛠️ **Stack**: Python, SQL, BigQuery, GCP, Docker, Django REST, Tableau API
+
+---
+
+### 🏢 **4D Logiciel Morocco** | *Data Developer Intern* | *June-July 2024*
+
+**Visual ETL Pipeline Innovation**
+- 🎯 **Challenge**: Complex data workflows limiting business agility
+- 🚀 **Solution**: Drag-and-drop ETL editor with intelligent optimization
+- 📊 **Impact**: **40% response time improvement** + **Enhanced reliability**
+- 🛠️ **Stack**: React, TypeScript, Redux, REST APIs, Caching
+
+</div>
+
+---
+
+## 🎓 Academic Excellence & Leadership
+
+<div align="center">
+
+### 🏛️ **National Institute of Posts & Telecommunications (INPT)**
+**Engineering in Data Engineering** | *2023-2026* | **Rabat, Morocco**
+
+### 📚 **Mathematics-Physics Preparatory Program**
+**National Rank: 133/4,000** | *Top 3.3%* | **CNC Morocco**
+
+### 🏆 **INPT Olympics 2024 - Event Director**
+- 👥 **Scale**: 7,000+ participants across 3 days
+- 💼 **Leadership**: 15+ cross-functional teams
+- 💰 **Budget**: 170,000 MAD full P&L responsibility
+- 🎯 **Result**: Zero-incident execution with corporate partnerships
+
+</div>
+
+---
+
+## 🎯 Current Projects & Research
+
+<div align="center">
+
+| Project | Description | Status | Tech Stack |
+|:--------|:------------|:-------|:-----------|
+| 🔒 **Real-time Cybersecurity Platform** | ML-powered threat detection with Kafka streaming | ✅ Complete | Kafka, PySpark, MLlib |
+| 🤖 **CarriereAI Job Matching** | End-to-end AI recruitment platform | ✅ Complete | Spark, Scala, OCR, NLP |
+| 🎯 **AI Media Authentication** | VGG16-based deepfake detection | ✅ Complete | TensorFlow, OpenCV |
+| 📊 **ETL Analytics Pipeline** | Star schema data warehouse | ✅ Complete | Python, SQLite, PowerBI |
+| 🎨 **Advanced Image Classification** | 94% accuracy deep learning model | ✅ Complete | CNN, Transfer Learning |
+
+</div>
+
+---
+
+## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdeladime-benali)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdeladimebenali.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdeladimebenali.me)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdeladimebenali2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdeladime2003)
+
+**🌍 Languages**: Arabic (Native) • French (Fluent) • English (Professional)
 
 </div>
 
 ---
 
-## Career Objectives & Availability
+## 💡 Career Objectives
 
 <div align="center">
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Seeking%20Data%20Engineering%20Opportunities&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Available%20January%202026%20•%20Minimum%206%20Months%20•%20Enterprise%20Focus&descAlignY=85&descSize=14)
+```yaml
+seeking:
+  position: "Data Engineering Internship / Junior Data Engineer"
+  duration: "6+ months minimum"
+  availability: "January 2026"
+  focus_areas:
+    - Enterprise data architecture
+    - Real-time streaming systems
+    - Cloud-native data platforms
+    - ML infrastructure & MLOps
+  
+interests:
+  technical: ["Distributed Systems", "Stream Processing", "MLOps"]
+  business: ["Digital Transformation", "Data Strategy", "Team Leadership"]
+  
+ready_for:
+  - International opportunities
+  - Remote-first teams  
+  - High-impact projects
+  - Scaling data infrastructure
+```
 
 </div>
-
-**Position Target**: Data Engineering Internship / Junior Data Engineer  
-**Availability**: January 2026 onwards  
-**Duration**: 6-month minimum commitment  
-**Focus Areas**: Cloud data architecture, real-time systems, ML infrastructure, enterprise data solutions
-
-**Technical Interests**: Distributed systems, stream processing, cloud-native architectures, MLOps, data platform engineering
 
 ---
 
 <div align="center">
-<b>Building scalable data solutions that bridge the gap between raw information and actionable business intelligence</b>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Let's%20Build%20the%20Future%20of%20Data&fontSize=40&fontAlign=50&fontAlignY=65&fontColor=fff&animation=twinkling&desc=Transforming%20Enterprise%20Data%20Challenges%20into%20Competitive%20Advantages&descAlign=60&descAlignY=85&descSize=16)
+
+</div>
+
+<div align="center">
+
+### ⭐ *"Engineering data solutions that bridge the gap between raw information and actionable intelligence"* ⭐
+
+**💫 Ready to architect the next generation of data platforms 💫**
+
 </div>
