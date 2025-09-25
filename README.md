@@ -289,7 +289,7 @@
 
 <div align="center">
 
-### 📊 Development Performance Dashboard
+###  Development Performance Dashboard
 
 | Development Stats  |  Technology Focus |
 |:---:|:---:|
@@ -297,7 +297,7 @@
 
 </div>
 
-### 📈 Professional Development Metrics
+###  Professional Development Metrics
 
 <div align="center">
 
@@ -308,15 +308,9 @@
 
 </div>
 
-### 🚀 Annual Contribution Activity Graph
 
-<div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdeladime2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&custom_title=12-Month%20Development%20Activity%20•%20Enterprise%20Contribution%20Patterns)
-
-</div>
-
-### 💻 Advanced Language & Technology Analytics
+###  Advanced Language & Technology Analytics
 
 <div align="center">
 
@@ -348,7 +342,7 @@
 
 ## ACHIEVEMENTS & RECOGNITION
 
-### 🏆 GitHub Achievement Showcase
+###  GitHub Achievement Showcase
 
 <div align="center">
 
@@ -356,20 +350,20 @@
 
 </div>
 
-### 🎯 Professional Accomplishments & Enterprise Impact
+###  Professional Accomplishments & Enterprise Impact
 
 <div align="center">
 
 | **Category** | **Achievement** | **Quantified Impact** |
 |:-------------|:----------------|:---------------------|
-| **💼 Leadership Excellence** | INPT Olympics 2024 Director | ![Scale](https://img.shields.io/badge/7,000+-people_managed-FF6B6B?style=flat-square) ![Budget](https://img.shields.io/badge/170K_MAD-budget_responsibility-00B894?style=flat-square) |
-| **🚀 Performance Engineering** | Bouygues Telecom Optimization | ![Performance](https://img.shields.io/badge/99.99%25-improvement_delivered-6C5CE7?style=flat-square) ![Time](https://img.shields.io/badge/3--5_days→10s-processing_time-4ECDC4?style=flat-square) |
-| **🎓 Academic Excellence** | CNC Morocco Ranking | ![Ranking](https://img.shields.io/badge/Top_3.3%25-nationally_ranked-FDCB6E?style=flat-square) ![Score](https://img.shields.io/badge/133/4000-elite_performance-E17055?style=flat-square) |
-| **🌍 International Experience** | France & Morocco Expertise | ![Countries](https://img.shields.io/badge/2_Countries-professional_experience-A29BFE?style=flat-square) ![Languages](https://img.shields.io/badge/3_Languages-multilingual_expert-74B9FF?style=flat-square) |
+| **Leadership Excellence** | INPT Olympics 2024 Director | ![Scale](https://img.shields.io/badge/7,000+-people_managed-FF6B6B?style=flat-square) ![Budget](https://img.shields.io/badge/170K_MAD-budget_responsibility-00B894?style=flat-square) |
+| **Performance Engineering** | Bouygues Telecom Optimization | ![Performance](https://img.shields.io/badge/99.99%25-improvement_delivered-6C5CE7?style=flat-square) ![Time](https://img.shields.io/badge/3--5_days→10s-processing_time-4ECDC4?style=flat-square) |
+| **Academic Excellence** | CNC Morocco Ranking | ![Ranking](https://img.shields.io/badge/Top_3.3%25-nationally_ranked-FDCB6E?style=flat-square) ![Score](https://img.shields.io/badge/133/4000-elite_performance-E17055?style=flat-square) |
+| **International Experience** | France & Morocco Expertise | ![Countries](https://img.shields.io/badge/2_Countries-professional_experience-A29BFE?style=flat-square) ![Languages](https://img.shields.io/badge/3_Languages-multilingual_expert-74B9FF?style=flat-square) |
 
 </div>
 
-### 📊 Enterprise-Level Competencies
+###  Enterprise-Level Competencies
 
 <div align="center">
 
