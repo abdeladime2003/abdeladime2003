@@ -280,7 +280,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdeladime2003&theme=radical&no-frame=true&margin-w=4&column=7&no-bg=true&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdeladime2003&theme=radical&no-frame=true&margin-w=4&column=7&no-bg=true&title=Stars,Followers,Commits,Repositories,MultipleLang)
 
 </div>
 
