@@ -267,9 +267,9 @@
 
 <div align="center">
 
-![Contributions](https://progress-bar.dev/85/?scale=100&title=Total%20Contributions&width=300&color=ff6b6b&suffix=+)
-![Growth Rate](https://progress-bar.dev/100/?scale=100&title=Growth%20Rate&width=300&color=00b894&suffix=%)
-![Active Projects](https://progress-bar.dev/75/?scale=100&title=Active%20Projects&width=300&color=6c5ce7&suffix=+)
+![Contributions](https://img.shields.io/badge/Total_Contributions-429+-FF6B6B?style=for-the-badge&labelColor=2D3748)
+![Growth Rate](https://img.shields.io/badge/Growth_Rate-11,100%25-00B894?style=for-the-badge&labelColor=2D3748)
+![Active Projects](https://img.shields.io/badge/Active_Projects-5+-6C5CE7?style=for-the-badge&labelColor=2D3748)
 
 </div>
 
