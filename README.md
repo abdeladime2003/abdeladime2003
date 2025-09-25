@@ -154,12 +154,30 @@ Final-year Data Engineering student with hands-on experience in cloud migration 
 
 ---
 
-## GitHub Analytics & Contributions
+## GitHub Analytics & Development Journey
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&color=blue&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/abdeladime2003?label=Followers&style=flat-square&color=blue)
+
+</div>
+
+### **Contribution Growth Trajectory**
+
+<div align="center">
+
+| **Year** | **Contributions** | **Development Focus** |
+|:--------:|:----------------:|:---------------------|
+| **2023** | 2 | Foundation & Learning |
+| **2024** | 224 | Accelerated Development |
+| **2025** | 203 | Professional Projects |
+
+**Total**: **429 contributions** demonstrating consistent technical growth and project delivery
+
+</div>
+
+<div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&icon_color=58a6ff&count_private=true)](https://github.com/abdeladime2003)
 
