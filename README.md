@@ -1,80 +1,123 @@
-<!-- HEADER ANIMATION -->
+<!-- Header & Quick Bio -->
+<h1 align="center">Hi 👋, I'm Abdeladime Benali</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=600&color=30B6DD&center=true&vCenter=true&width=750&lines=Abdeladime+Benali+-+Enterprise+Data+Engineer;Architecting+Business+Impact+With+Data;Cloud%2C+AI%2C+Streaming+-+INPT+%7C+Bouygues+Telecom" alt="Typing SVG" />
+  Data Engineer | INPT Student | Enterprise Data Pipeline Expert <br>
+  <a href="https://www.linkedin.com/in/abdeladimebenali">LinkedIn</a> • 
+  <a href="https://www.abdeladimebenali.me/">Portfolio</a> • 
+  <a href="mailto:abdeladimebenali2003@gmail.com">Email</a>
 </p>
 
-<!-- BANNER (OPTIONNEL: mets ton URL ou supprime cette ligne) -->
-<!-- <p align="center"><img src="https://yourdomain.com/yourbanner.png" width="90%"></p> -->
-
-<!-- COLOR BADGES -->
+<!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/abdeladime2003?label=Followers&color=30B6DD&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/abdeladime2003?label=Stars&color=1E293B&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enterprise%20BI-99.99%25%20Performance-0ED8B9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud%20Migration-Zero%20Downtime-7A46E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-Business%20Impact-FFB400?style=for-the-badge" />
-</p>
-
----
-
-<div align="center">
-  <b style="font-size:1.6em; color:#1E293B">
-    Delivering enterprise-grade data platforms and cloud analytics.<br>
-    <span style="color:#30B6DD">3–5 days ➔ 10 seconds</span> processing, <span style="color:#0ED8B9">40+</span> dashboards migrated, strategic impact at scale.
-  </b>
-</div>
-
----
-
-<!-- ADVANCED STATS & GRAPHS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&hide_title=true&hide_border=true&theme=radical" width="420">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&hide_border=true&theme=radical" width="320">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdeladime2003&bg_color=30B6DD&color=1E293B&line=0ED8B9&point=7A46E2&area=true&hide_border=true" width="100%">
-</div>
-
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdeladime2003&theme=algolia&margin-w=6&margin-h=6"/>
-</div>
-
----
-
-## Enterprise Case Studies
-
-| Project                                       | Impact / KPIs                                     | Tech Stack                       |
-|------------------------------------------------|----------------------------------------------------|-----------------------------------|
-| **Enterprise BI Migration (Bouygues Telecom)** | 99.99% faster analytics, 40+ dashboards, zero downtime | Python, Django REST, Dash, BigQuery, GCP |
-| **AI-Media-Authenticity-Detector**             | 94% accuracy, Deep Learning asset validation       | TensorFlow, VGG16, OpenCV         |
-| **CarriereAI**                                 | 500+ jobs/day automated, real-time HR intelligence | Spark, Scala, NLP, OCR            |
-| **CyberDetection**                             | Real-time cyber threat detection                   | Kafka, PySpark, MLlib             |
-| **ETL Analytics**                              | Automated warehouse, actionable insights           | Python, PowerBI, SQLite           |
-
----
-
-<!-- TECHNOLOGIES ANIMATION -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,spark,kafka,gcp,docker,tensorflow,react,typescript,django,mongodb,postgresql" />
+  <img src="https://img.shields.io/github/followers/abdeladime2003?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/abdeladime2003?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/badge/Data%20Engineer-Expert-green" alt="Expert Badge"/>
+  <img src="https://img.shields.io/badge/Spark%20%7C%20Kafka%20%7C%20BigQuery%20%7C%20GCP-blue" alt="Tech Stack Badge"/>
 </p>
 
 ---
 
-## Education & Recognition
-
-- **INPT – Institut National des Postes & Télécommunications**
-  - Data Engineering Cycle (2023–2026)
-  - National Rank: 133/4000 (Top 3.3%, CNC Morocco)
-- **Awards:** Executive Director – INPT Olympics 2024, Enterprise Innovation Lead (4D LOGICIEL Morocco)
-
----
-
-<!-- CONTACT SECTION -->
-<div align="center">
-  <a href="mailto:abdeladimebenali2003@gmail.com"><img src="https://img.shields.io/badge/Email-abdeladimebenali2003@gmail.com-1E293B?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/abdeladimebenali"><img src="https://img.shields.io/badge/LinkedIn-abdeladimebenali-30B6DD?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.abdeladimebenali.me/"><img src="https://img.shields.io/badge/Portfolio-abdeladimebenali.me-FFB400?style=for-the-badge&logo=firefox-browser" /></a>
-</div>
+<!-- Professional Profile -->
+<h2 align="center">👨‍💻 About Me</h2>
+<ul>
+  <li>🚀 Built enterprise data pipelines reducing processing time from days to seconds</li>
+  <li>🎓 <b>Student at INPT (Institut National des Postes & Télécommunications)</b></li>
+  <li>🌍 Based in Rabat, Morocco</li>
+  <li>📊 Passionate about Big Data, Cloud, ML, and Full Stack Development</li>
+  <li>📅 Graduation: 2026 | Availability: PFE Internship (Jan 2026+)</li>
+  <li>🌐 <a href="https://www.abdeladimebenali.me/">Personal Portfolio Website</a></li>
+</ul>
 
 ---
 
-<sub align="center">Last updated: September 2025 · Continuous growth, enterprise impact.</sub>
+<!-- Trophies -->
+<h2 align="center">🏆 GitHub Profile Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdeladime2003&theme=darkhub&margin-w=5&margin-h=5"/>
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📈 GitHub Stats & Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<!-- Contribution Graph -->
+<h2 align="center">💡 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdeladime2003&theme=github-compact"/>
+</p>
+
+---
+
+<!-- Featured Projects Showcase -->
+<h2 align="center">🚀 Featured Projects</h2>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/abdeladime2003/AI-Media-Authenticity-Detector"><b>AI-Media-Authenticity-Detector</b></a><br>
+      <code>TensorFlow • VGG16 • OpenCV</code><br>
+      <img src="https://img.shields.io/github/stars/abdeladime2003/AI-Media-Authenticity-Detector?style=social" />
+      <br>
+      <i>94% accuracy for media authenticity detection (Deep Learning)</i>
+    </td>
+    <td>
+      <a href="https://github.com/abdeladime2003/CarriereAI"><b>CarriereAI</b></a><br>
+      <code>Spark • Scala • NLP • OCR</code><br>
+      <img src="https://img.shields.io/github/stars/abdeladime2003/CarriereAI?style=social" />
+      <br>
+      <i>Automation of 500+ jobs/day for career intelligence</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/abdeladime2003/CyberDetection"><b>CyberDetection</b></a><br>
+      <code>Kafka • PySpark • MLlib</code><br>
+      <img src="https://img.shields.io/github/stars/abdeladime2003/CyberDetection?style=social" />
+      <br>
+      <i>Real-time threat detection with streaming analytics</i>
+    </td>
+    <td>
+      <a href="https://github.com/abdeladime2003/ETL-Analytics"><b>ETL Analytics</b></a><br>
+      <code>Python • SQLite • PowerBI</code><br>
+      <img src="https://img.shields.io/github/stars/abdeladime2003/ETL-Analytics?style=social" />
+      <br>
+      <i>Automated data warehouse and analytics engine</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Technologies & Skills -->
+<h2 align="center">🛠️ Technologies & Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-orange?logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-black?logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-blue?logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white" />
+</p>
+
+---
+
+<!-- Contact & Social -->
+<h2 align="center">📬 Contact</h2>
+<p align="center">
+  <a href="mailto:abdeladimebenali2003@gmail.com"><img src="https://img.shields.io/badge/Email-abdeladimebenali2003@gmail.com-blue?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/abdeladimebenali"><img src="https://img.shields.io/badge/LinkedIn-abdeladimebenali-blue?logo=linkedin" /></a>
+  <a href="https://www.abdeladimebenali.me/"><img src="https://img.shields.io/badge/Website-abdeladimebenali.me-green?logo=firefox-browser" /></a>
+</p>
+
+---
+
+<p align="center"><i>Last updated: September 2025 | Continuously evolving and growing 🚀</i></p>
