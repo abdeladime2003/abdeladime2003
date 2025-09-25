@@ -16,12 +16,6 @@
 
 ---
 
-<div align="center">
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2d3748,100:1a202c&height=100&section=header&animation=fadeIn)
-
-</div>
-
 ## **EXECUTIVE SUMMARY**
 
 <div align="center">
