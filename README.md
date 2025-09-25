@@ -267,12 +267,11 @@
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Total_Contributions-429+-FF6B6B?style=for-the-badge&labelColor=2D3748)
-![Growth Rate](https://img.shields.io/badge/Growth_Rate-11,100%25-00B894?style=for-the-badge&labelColor=2D3748)
-![Active Projects](https://img.shields.io/badge/Active_Projects-5+-6C5CE7?style=for-the-badge&labelColor=2D3748)
+![Contributions](https://img.shields.io/badge/Total_Contributions-429+-FF6B6B?style=flat-square&labelColor=2D3748)
+![Growth Rate](https://img.shields.io/badge/Growth_Rate-11,100%25-00B894?style=flat-square&labelColor=2D3748)
+![Active Projects](https://img.shields.io/badge/Active_Projects-5+-6C5CE7?style=flat-square&labelColor=2D3748)
 
 </div>
-
 **Performance Trajectory:**
 - **2023:** Foundation & Learning (2 contributions)
 - **2024:** Accelerated Development (224 contributions - 11,100% growth)
