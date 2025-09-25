@@ -1,14 +1,14 @@
 <div align="center">
 
-![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=ABDELADIM%20BENALI&fontSize=50&animation=twinkling&fontAlignY=38&desc=Data%20Engineering%20Specialist%20%7C%20Enterprise%20Solutions%20Architect&descAlignY=51&descSize=18)
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1a1a1a,70:2d3748,100:4a5568&height=300&section=header&text=ABDELADIM%20BENALI&fontSize=50&animation=twinkling&fontAlignY=38&fontColor=ffffff&desc=Data%20Engineering%20Specialist%20%7C%20Enterprise%20Solutions%20Architect&descAlignY=51&descSize=18&descColor=e2e8f0)
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF6347&center=true&vCenter=true&width=800&height=80&lines=DATA+ENGINEERING;SPECIALIST;ENTERPRISE+ARCHITECT;INPT+STUDENT)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&height=80&lines=DATA+ENGINEERING;SPECIALIST;ENTERPRISE+ARCHITECT;INPT+STUDENT&background=000000)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Consolas&size=22&duration=3500&pause=800&color=2E8B57&center=true&vCenter=true&width=1200&height=60&lines=🚀+Building+next-generation+data+platforms+for+enterprise+transformation;📊+Proven+track+record+with+99.99%25+performance+improvements;⚡+Expert+in+real-time+systems,+cloud+migration,+ML+infrastructure;💼+Available+for+PFE+Internship+-+January+2026+Ready!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Consolas&size=22&duration=3500&pause=800&color=64ffda&center=true&vCenter=true&width=1200&height=60&lines=⚡+Building+next-generation+data+platforms+for+enterprise+transformation;📊+Proven+track+record+with+99.99%25+performance+improvements;🚀+Expert+in+real-time+systems,+cloud+migration,+ML+infrastructure;�+Available+for+PFE+Internship+-+January+2026+Ready!&background=1a1a1a)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=fadeIn)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2d3748,100:1a202c&height=100&section=header&animation=fadeIn)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Profile Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=500&color=2E8B57&center=true&vCenter=true&width=1000&height=100&lines=👨‍💻+ABDELADIM+BENALI+-+Data+Engineering+Specialist;🎓+INPT+Student+graduating+in+2026;🌍+International+Experience:+Morocco+→+Paris,+France;⚡+Available+for+PFE+Internship+January+2026;🚀+Expert+in+Apache+Spark,+Kafka,+BigQuery,+ML+Infrastructure;📊+99.99%25+performance+improvements+delivered;💼+7,000%2B+people+managed,+170K+MAD+budget+responsibility;🏆+Top+3.3%25+nationally+ranked+(133/4000);🔥+Ready+for+elite+enterprise+opportunities!)
+![Profile Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=500&color=64ffda&center=true&vCenter=true&width=1000&height=100&lines=+ABDELADIM+BENALI+-+Data+Engineering+Specialist;🎓+INPT+Student+graduating+in+2026;🌍+International+Experience:+Morocco+→+Paris,+France;⚡+Available+for+PFE+Internship+January+2026;🚀+Expert+in+Apache+Spark,+Kafka,+BigQuery,+ML+Infrastructure;📊+99.99%25+performance+improvements+delivered;💼+7,000%2B+people+managed,+170K+MAD+budget+responsibility;🏆+Top+3.3%25+nationally+ranked+(133/4000);�+Ready+for+elite+enterprise+opportunities!&background=0d1117)
 
 </div>
 
@@ -48,10 +48,10 @@
 
 <div align="center">
 
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-Apache_Spark•Kafka•BigQuery•ETL/ELT-2E8B57?style=for-the-badge)
-![Cloud Platforms](https://img.shields.io/badge/Cloud_Platforms-GCP•Docker•Kubernetes-1E90FF?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-TensorFlow•scikit--learn•MLOps•Real--time_ML-FF6347?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full_Stack-React•Django_REST•TypeScript•PostgreSQL-9966CC?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-Apache_Spark•Kafka•BigQuery•ETL/ELT-000000?style=for-the-badge&labelColor=64ffda&color=1a202c)
+![Cloud Platforms](https://img.shields.io/badge/Cloud_Platforms-GCP•Docker•Kubernetes-000000?style=for-the-badge&labelColor=bb86fc&color=1a202c)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-TensorFlow•scikit--learn•MLOps•Real--time_ML-000000?style=for-the-badge&labelColor=ff6b6b&color=1a202c)
+![Full Stack](https://img.shields.io/badge/Full_Stack-React•Django_REST•TypeScript•PostgreSQL-000000?style=for-the-badge&labelColor=4ecdc4&color=1a202c)
 
 </div>
 
@@ -59,17 +59,17 @@
 
 <div align="center">
 
-![Performance](https://img.shields.io/badge/Performance_Improvement-99.99%25_(3--5_days_→_10_seconds)-success?style=for-the-badge&logo=trending-up)
-![Real Time](https://img.shields.io/badge/Real_Time_Processing-<2_seconds_end--to--end-critical?style=for-the-badge&logo=zap)
-![Leadership](https://img.shields.io/badge/Leadership_Scale-7,000%2B_people_managed-blue?style=for-the-badge&logo=users)
-![Budget](https://img.shields.io/badge/Budget_Responsibility-170,000_MAD_P&L-green?style=for-the-badge&logo=money-bill)
-![Ranking](https://img.shields.io/badge/National_Ranking-Top_3.3%25_(133/4,000)-gold?style=for-the-badge&logo=trophy)
+![Performance](https://img.shields.io/badge/Performance_Improvement-99.99%25_(3--5_days_→_10_seconds)-000000?style=for-the-badge&logo=trending-up&logoColor=64ffda&labelColor=64ffda&color=2d3748)
+![Real Time](https://img.shields.io/badge/Real_Time_Processing-<2_seconds_end--to--end-000000?style=for-the-badge&logo=zap&logoColor=ffd700&labelColor=ffd700&color=2d3748)
+![Leadership](https://img.shields.io/badge/Leadership_Scale-7,000%2B_people_managed-000000?style=for-the-badge&logo=users&logoColor=bb86fc&labelColor=bb86fc&color=2d3748)
+![Budget](https://img.shields.io/badge/Budget_Responsibility-170,000_MAD_P&L-000000?style=for-the-badge&logo=money-bill&logoColor=4ecdc4&labelColor=4ecdc4&color=2d3748)
+![Ranking](https://img.shields.io/badge/National_Ranking-Top_3.3%25_(133/4,000)-000000?style=for-the-badge&logo=trophy&logoColor=ff6b6b&labelColor=ff6b6b&color=2d3748)
 
 </div>
 
 <div align="center">
 
-![Wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,33&height=120&section=header&animation=fadeIn)
+![Wave](https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:161b22,100:21262d&height=120&section=header&animation=fadeIn)
 
 </div>
 
@@ -77,16 +77,16 @@
 
 <div align="center">
 
-![Experience Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=700&color=1E90FF&center=true&vCenter=true&width=900&height=50&lines=💼+Enterprise+Experience+in+Morocco+%26+France;🏢+Bouygues+Telecom+%7C+4D+Logiciel+Morocco;⚡+99.99%25+Performance+Improvements+Delivered;🚀+Ready+for+your+next+big+challenge!)</div>
+![Experience Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=700&color=64ffda&center=true&vCenter=true&width=900&height=50&lines=💼+Enterprise+Experience+in+Morocco+%26+France;🏢+Bouygues+Telecom+%7C+4D+Logiciel+Morocco;⚡+99.99%25+Performance+Improvements+Delivered;�+Ready+for+your+next+big+challenge!&background=0d1117)</div>
 
 ### **BOUYGUES TELECOM** | Paris, France | **Data Engineer Intern**
 **June - August 2025** | **Enterprise BI Migration & Automation Platform**
 
 <div align="center">
 
-![Performance](https://img.shields.io/badge/Performance_Improvement-99.99%25-success?style=for-the-badge)
-![Processing_Time](https://img.shields.io/badge/Processing_Time-3--5_days_→_10_seconds-critical?style=for-the-badge)
-![Dashboards](https://img.shields.io/badge/Dashboards_Migrated-40+-blue?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Performance_Improvement-99.99%25-000000?style=for-the-badge&labelColor=64ffda&color=1a202c)
+![Processing_Time](https://img.shields.io/badge/Processing_Time-3--5_days_→_10_seconds-000000?style=for-the-badge&labelColor=ffd700&color=1a202c)
+![Dashboards](https://img.shields.io/badge/Dashboards_Migrated-40+-000000?style=for-the-badge&labelColor=bb86fc&color=1a202c)
 
 </div>
 
@@ -109,9 +109,9 @@
 
 <div align="center">
 
-![Innovation](https://img.shields.io/badge/Innovation-Flow--Based_Programming-purple?style=for-the-badge)
-![Performance](https://img.shields.io/badge/Performance_Boost-40%25-success?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Architecture-Modern_React-blue?style=for-the-badge)
+![Innovation](https://img.shields.io/badge/Innovation-Flow--Based_Programming-000000?style=for-the-badge&labelColor=bb86fc&color=1a202c)
+![Performance](https://img.shields.io/badge/Performance_Boost-40%25-000000?style=for-the-badge&labelColor=64ffda&color=1a202c)
+![Architecture](https://img.shields.io/badge/Architecture-Modern_React-000000?style=for-the-badge&labelColor=4ecdc4&color=1a202c)
 
 </div>
 
@@ -131,7 +131,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Education Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=600&color=FFD700&center=true&vCenter=true&width=1000&height=70&lines=🎓+ACADEMIC+EXCELLENCE+%26+ELITE+LEADERSHIP;🏆+Top+3.3%25+Nationally+Ranked;👑+7,000%2B+People+Managed+Successfully;💰+170K+MAD+Budget+Responsibility)
+![Education Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=600&color=ffd700&center=true&vCenter=true&width=1000&height=70&lines=🎓+ACADEMIC+EXCELLENCE+%26+ELITE+LEADERSHIP;🏆+Top+3.3%25+Nationally+Ranked;👑+7,000%2B+People+Managed+Successfully;�+170K+MAD+Budget+Responsibility&background=0d1117)
 
 </div>
 
@@ -142,9 +142,9 @@
 
 <div align="center">
 
-![Institution](https://img.shields.io/badge/Institution-Elite_Moroccan_Engineering-gold?style=for-the-badge)
-![Performance](https://img.shields.io/badge/Performance-Excellent-success?style=for-the-badge)
-![Specialization](https://img.shields.io/badge/Specialization-Data_Engineering-blue?style=for-the-badge)
+![Institution](https://img.shields.io/badge/Institution-Elite_Moroccan_Engineering-000000?style=for-the-badge&labelColor=ffd700&color=1a202c)
+![Performance](https://img.shields.io/badge/Performance-Excellent-000000?style=for-the-badge&labelColor=64ffda&color=1a202c)
+![Specialization](https://img.shields.io/badge/Specialization-Data_Engineering-000000?style=for-the-badge&labelColor=bb86fc&color=1a202c)
 
 </div>
 
@@ -164,9 +164,9 @@
 
 <div align="center">
 
-![National_Rank](https://img.shields.io/badge/National_Rank-133%2F4000-gold?style=for-the-badge)
-![Percentile](https://img.shields.io/badge/Top-3.3%25-critical?style=for-the-badge)
-![Competition](https://img.shields.io/badge/Competition-CNC_Morocco-blue?style=for-the-badge)
+![National_Rank](https://img.shields.io/badge/National_Rank-133%2F4000-000000?style=for-the-badge&labelColor=ffd700&color=1a202c)
+![Percentile](https://img.shields.io/badge/Top-3.3%25-000000?style=for-the-badge&labelColor=ff6b6b&color=1a202c)
+![Competition](https://img.shields.io/badge/Competition-CNC_Morocco-000000?style=for-the-badge&labelColor=4ecdc4&color=1a202c)
 
 </div>
 
@@ -179,10 +179,10 @@
 
 <div align="center">
 
-![Participants](https://img.shields.io/badge/Participants-7000+-red?style=for-the-badge)
-![Budget](https://img.shields.io/badge/Budget-170K_MAD-green?style=for-the-badge)
-![Teams](https://img.shields.io/badge/Teams_Managed-15+-blue?style=for-the-badge)
-![Execution](https://img.shields.io/badge/Execution-Zero_Incidents-success?style=for-the-badge)
+![Participants](https://img.shields.io/badge/Participants-7000+-000000?style=for-the-badge&labelColor=ff6b6b&color=1a202c)
+![Budget](https://img.shields.io/badge/Budget-170K_MAD-000000?style=for-the-badge&labelColor=64ffda&color=1a202c)
+![Teams](https://img.shields.io/badge/Teams_Managed-15+-000000?style=for-the-badge&labelColor=bb86fc&color=1a202c)
+![Execution](https://img.shields.io/badge/Execution-Zero_Incidents-000000?style=for-the-badge&labelColor=4ecdc4&color=1a202c)
 
 </div>
 
@@ -196,9 +196,9 @@
 
 <div align="center">
 
-![Tech Wave](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=140&section=header&animation=fadeIn)
+![Tech Wave](https://capsule-render.vercel.app/api?type=shark&color=0:000000,30:161b22,70:21262d,100:0d1117&height=140&section=header&animation=fadeIn)
 
-![Tech Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=500&color=9966CC&center=true&vCenter=true&width=1100&height=60&lines=💻+TECHNICAL+EXPERTISE+%26+ELITE+SKILLS;🔧+Apache+Spark+•+Kafka+•+BigQuery+•+GCP;🤖+TensorFlow+•+scikit-learn+•+MLOps;⚛️+React+•+Django+REST+•+TypeScript+•+PostgreSQL)
+![Tech Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=500&color=bb86fc&center=true&vCenter=true&width=1100&height=60&lines=💻+TECHNICAL+EXPERTISE+%26+ELITE+SKILLS;🔧+Apache+Spark+•+Kafka+•+BigQuery+•+GCP;🤖+TensorFlow+•+scikit-learn+•+MLOps;⚛️+React+•+Django+REST+•+TypeScript+•+PostgreSQL&background=0d1117)
 
 </div>
 
@@ -241,7 +241,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Projects Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=600&color=FF4500&center=true&vCenter=true&width=1000&height=65&lines=🚀+PRODUCTION-READY+PROJECT+PORTFOLIO;🔒+CyberDetection+•+Real-time+<2s+Processing;🤖+CarriereAI+•+500%2B+jobs/day+Automation;🎭+AI+Media+Detector+•+94%25+Accuracy;📊+All+Systems+Currently+in+PRODUCTION!)
+![Projects Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=600&color=ff6b6b&center=true&vCenter=true&width=1000&height=65&lines=🚀+PRODUCTION-READY+PROJECT+PORTFOLIO;🔒+CyberDetection+•+Real-time+<2s+Processing;🤖+CarriereAI+•+500%2B+jobs/day+Automation;🎭+AI+Media+Detector+•+94%25+Accuracy;📊+All+Systems+Currently+in+PRODUCTION!&background=0d1117)
 
 </div>
 
@@ -274,9 +274,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Real-time%20Development%20Metrics&descAlignY=55&descSize=14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1a1a1a,70:2d3748,100:161b22&height=120&section=header&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Real-time%20Development%20Metrics&descAlignY=55&descSize=14"/>
 
-![Analytics Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=1000&height=50&lines=📈+2000%2B+Commits+•+Active+Daily+Contributor;🏆+100%25+Code+Quality+•+Enterprise+Standards;⚡+Performance+Focus+•+Optimization+Expert)
+![Analytics Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=64ffda&center=true&vCenter=true&width=1000&height=50&lines=📈+2000%2B+Commits+•+Active+Daily+Contributor;🏆+100%25+Code+Quality+•+Enterprise+Standards;⚡+Performance+Focus+•+Optimization+Expert&background=0d1117)
 
 </div>
 
@@ -294,9 +294,9 @@
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Total_Contributions-429+-2E8B57?style=for-the-badge)
-![Growth_Rate](https://img.shields.io/badge/Growth_Rate-11,100%25-FF6347?style=for-the-badge)
-![Active_Projects](https://img.shields.io/badge/Active_Projects-5+-1E90FF?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Total_Contributions-429+-000000?style=for-the-badge&labelColor=64ffda&color=1a202c)
+![Growth_Rate](https://img.shields.io/badge/Growth_Rate-11,100%25-000000?style=for-the-badge&labelColor=ff6b6b&color=1a202c)
+![Active_Projects](https://img.shields.io/badge/Active_Projects-5+-000000?style=for-the-badge&labelColor=bb86fc&color=1a202c)
 
 </div>
 
@@ -308,9 +308,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFA500&height=120&section=header&text=ACHIEVEMENTS&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Professional%20Excellence%20%26%20Recognition&descAlignY=55&descSize=14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:2d3748,70:ffd700,100:1a202c&height=120&section=header&text=ACHIEVEMENTS&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Professional%20Excellence%20%26%20Recognition&descAlignY=55&descSize=14"/>
 
-![Achievement Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=1000&height=50&lines=🏆+7000%2B+People+Managed+•+Leadership+Excellence;🎯+99.99%25+Performance+Improvement+•+Enterprise+Impact;🥇+Top+3.3%25+National+Ranking+•+Academic+Elite)
+![Achievement Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=ffd700&center=true&vCenter=true&width=1000&height=50&lines=🏆+7000%2B+People+Managed+•+Leadership+Excellence;🎯+99.99%25+Performance+Improvement+•+Enterprise+Impact;🥇+Top+3.3%25+National+Ranking+•+Academic+Elite&background=0d1117)
 
 </div>
 
@@ -346,7 +346,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Career Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3200&pause=800&color=9370DB&center=true&vCenter=true&width=1000&height=65&lines=🎯+CAREER+TRAJECTORY+2026;🚀+Seeking+Elite+Data+Engineering+PFE;🌟+6%2B+Months+Enterprise+Challenge;🌍+Global+Remote+%26+International+Ready!)
+![Career Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3200&pause=800&color=bb86fc&center=true&vCenter=true&width=1000&height=65&lines=🎯+CAREER+TRAJECTORY+2026;🚀+Seeking+Elite+Data+Engineering+PFE;🌟+6%2B+Months+Enterprise+Challenge;🌍+Global+Remote+%26+International+Ready!&background=0d1117)
 
 </div>
 
@@ -356,9 +356,9 @@
 
 <div align="center">
 
-![Seeking](https://img.shields.io/badge/Seeking-Data_Engineering_PFE_Internship-2E8B57?style=for-the-badge)
-![Duration](https://img.shields.io/badge/Duration-6+_months-1E90FF?style=for-the-badge)
-![Start_Date](https://img.shields.io/badge/Start_Date-January_2026-FF6347?style=for-the-badge)
+![Seeking](https://img.shields.io/badge/Seeking-Data_Engineering_PFE_Internship-000000?style=for-the-badge&labelColor=64ffda&color=1a202c)
+![Duration](https://img.shields.io/badge/Duration-6+_months-000000?style=for-the-badge&labelColor=bb86fc&color=1a202c)
+![Start_Date](https://img.shields.io/badge/Start_Date-January_2026-000000?style=for-the-badge&labelColor=ff6b6b&color=1a202c)
 
 </div>
 
@@ -380,10 +380,10 @@
 
 <div align="center">
 
-![Morocco](https://img.shields.io/badge/Morocco-Local_&_Remote-success?style=for-the-badge&logo=flag)
-![France](https://img.shields.io/badge/France-Proven_Success-blue?style=for-the-badge&logo=flag)
-![Europe](https://img.shields.io/badge/Europe-International_Ready-orange?style=for-the-badge&logo=flag)
-![Remote](https://img.shields.io/badge/Remote-Distributed_Teams-purple?style=for-the-badge&logo=remote)
+![Morocco](https://img.shields.io/badge/Morocco-Local_&_Remote-000000?style=for-the-badge&logo=flag&labelColor=64ffda&color=1a202c)
+![France](https://img.shields.io/badge/France-Proven_Success-000000?style=for-the-badge&logo=flag&labelColor=4ecdc4&color=1a202c)
+![Europe](https://img.shields.io/badge/Europe-International_Ready-000000?style=for-the-badge&logo=flag&labelColor=ffd700&color=1a202c)
+![Remote](https://img.shields.io/badge/Remote-Distributed_Teams-000000?style=for-the-badge&logo=remote&labelColor=bb86fc&color=1a202c)
 
 </div>
 
@@ -391,7 +391,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Contact Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=32CD32&center=true&vCenter=true&width=1000&height=65&lines=💼+OPEN+FOR+COLLABORATION;🌍+Available+for+PFE+Internship+Jan+2026;🚀+Ready+for+Enterprise+Challenges;📧+Let's+Build+Something+Amazing!)
+![Contact Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=4ecdc4&center=true&vCenter=true&width=1000&height=65&lines=💼+OPEN+FOR+COLLABORATION;🌍+Available+for+PFE+Internship+Jan+2026;🚀+Ready+for+Enterprise+Challenges;�+Let's+Build+Something+Amazing!&background=0d1117)
 
 </div>
 
@@ -412,9 +412,9 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=50&lines=Excellence+through+continuous+innovation+and+measurable+impact;Available+January+2026+•+International+Ready+•+Impact-Driven)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=4000&pause=1000&color=64ffda&center=true&vCenter=true&width=800&height=50&lines=Excellence+through+continuous+innovation+and+measurable+impact;Available+January+2026+•+International+Ready+•+Impact-Driven&background=0d1117)
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&color=2e8b57&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&color=64ffda&style=for-the-badge&label=Profile+Views)
 
 **Last updated: December 2025 | Continuously evolving and growing**
 
