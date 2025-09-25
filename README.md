@@ -46,7 +46,7 @@
 |:---------|:--------|
 | **Education** | INPT - National Institute of Posts & Telecommunications |
 | **Graduation** | 2026 |
-| **Location** | Rabat, Morocco \|
+| **Location** | Rabat, Morocco |
 | **Availability** | PFE Internship - January 2026 (6+ months minimum) |
 | **Languages** | Arabic (Native) • French (Business) • English (Professional) |
 
@@ -270,7 +270,6 @@
 
 <div align="center">
 
-![Achievements Header](https://capsule-render.vercel.app/api?type=waving&color=0:FDCB6E,30:FF6B6B,70:6C5CE7,100:4ECDC4&height=120&section=header&text=ACHIEVEMENTS&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Professional%20Excellence%20%26%20Recognition&descAlignY=55&descSize=14)
 
 [![Achievement Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FDCB6E&center=true&vCenter=true&width=1000&height=50&lines=7000%2B+People+Managed+•+Leadership+Excellence;99.99%25+Performance+Improvement+•+Enterprise+Impact;Top+3.3%25+National+Ranking+•+Academic+Elite)](https://git.io/typing-svg)
 
@@ -323,16 +322,7 @@
 - ML infrastructure and MLOps implementation at scale
 - Cross-functional technical leadership and stakeholder management
 
-### Global Collaboration Readiness
 
-<div align="center">
-
-![Morocco](https://progress-bar.dev/100/?scale=100&title=Morocco%20Local&width=200&color=4ecdc4&suffix=%)
-![France](https://progress-bar.dev/95/?scale=100&title=France%20Success&width=200&color=ff6b6b&suffix=%)
-![Europe](https://progress-bar.dev/90/?scale=100&title=Europe%20Ready&width=200&color=fdcb6e&suffix=%)
-![Remote](https://progress-bar.dev/85/?scale=100&title=Remote%20Teams&width=200&color=6c5ce7&suffix=%)
-
-</div>
 
 <div align="center">
 
