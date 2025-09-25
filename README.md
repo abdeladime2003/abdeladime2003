@@ -1,6 +1,6 @@
 # Abdeladim Benali
 
-**Principal Data Engineering Candidate** | **Enterprise Systems Architect** | **ML Infrastructure Specialist**
+**Data Engineering Student** • **Cloud Migration Specialist** • **ML Systems Developer**
 
 **National Institute of Posts and Telecommunications (INPT)** | **Available January 2026**
 
@@ -8,77 +8,54 @@
 
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Data%20Engineering%20Excellence&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20Scale%20•%20Real-Time%20Systems%20•%20ML%20Infrastructure&descAlignY=55&descSize=18)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Data%20Engineering%20Excellence&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Real-Time%20Systems%20•%20Cloud%20Architecture%20•%20ML%20Infrastructure&descAlignY=55&descSize=18)
 
 </div>
 
-## Executive Summary
+## Professional Summary
 
-Senior Data Engineering professional with demonstrated expertise in enterprise-scale data platform modernization and real-time ML infrastructure. Proven track record of delivering mission-critical systems that process millions of operations with sub-second latency while maintaining 99.9% availability.
+Final-year Data Engineering student with hands-on experience in cloud migration and AI/ML systems. Successfully reduced enterprise dashboard processing from days to seconds through automated pipeline development at Bouygues Telecom. Currently seeking 6-month data engineering internship opportunities starting January 2026.
 
-Currently completing advanced engineering studies at Morocco's premier telecommunications institute, seeking principal-level opportunities to drive next-generation data architecture initiatives.
+**Core Expertise**: Enterprise data migrations, real-time streaming systems, machine learning infrastructure, full-stack development for data platforms.
 
 ---
 
-## Core Technical Competencies
+## Technical Impact & Achievements
 
 <div align="center">
 
-| **Technical Domain** | **Proficiency** | **Enterprise Applications** |
-|:---------------------|:---------------:|:----------------------------|
-| **Distributed Systems Architecture** | Expert | Multi-petabyte data processing, horizontal scaling |
-| **Real-Time Stream Processing** | Expert | Sub-second latency, event-driven architectures |
-| **Cloud Infrastructure Design** | Expert | Multi-cloud deployments, cost optimization |
-| **Machine Learning Operations** | Advanced | Production ML pipelines, automated deployment |
-| **Enterprise Integration** | Advanced | Legacy system modernization, zero-downtime migrations |
+| **Project Domain** | **Key Achievement** | **Technologies** |
+|:-------------------|:-------------------|:-----------------|
+| **Enterprise Migration** | `3-5 days → 10 seconds` processing time | Teradata, BigQuery, GCP, Django |
+| **Visual ETL Systems** | `40% response time reduction` | React, TypeScript, Redux, REST APIs |
+| **Real-time Detection** | `<2s alert delivery` with ML | Kafka, PySpark, MLlib, MongoDB |
+| **Job Matching Platform** | `500+ jobs/day` processing capacity | Spark, Scala, OCR/NLP, Django |
 
 </div>
 
 ---
 
-## Quantified Business Impact
+## Professional Experience
 
-<div align="center">
+### **Data Engineer Intern** | *Bouygues Telecom Morocco* | *June 2025 - August 2025*
 
-![Performance Metrics](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=metrics&theme=dark&hide_border=true&title_color=58a6ff&text_color=f0f6fc&bg_color=0d1117)
+**Enterprise Dashboard Migration Platform**
+- Automated Teradata→BigQuery dashboard migrations reducing processing time from 3-5 days to 10 seconds
+- Built full-stack platform deployed across multiple business units
+- **Technology Stack**: Python, SQL, BigQuery, GCP, Docker, Django REST Framework, Tableau Server API
+- **Business Impact**: Enabled real-time business intelligence for enterprise decision-making
 
-</div>
+### **Data Developer Intern** | *4D Logiciel Morocco* | *June 2024 - July 2024*
 
-### Performance Optimization Achievements
-
-**Enterprise Dashboard Migration Platform**  
-*Bouygues Telecom Morocco - Cloud Infrastructure Transformation*
-- **Latency Reduction**: 99.99% improvement (3-5 days → 10 seconds)
-- **System Availability**: 99.9% uptime across multiple business units
-- **Cost Impact**: 65% infrastructure cost reduction through optimized cloud architecture
-- **User Impact**: Zero-downtime migration serving thousands of daily enterprise users
-
-**Visual ETL Pipeline Architecture**  
-*4D Logiciel Morocco - Data Processing Innovation*
-- **Performance Gain**: 40% reduction in pipeline execution time
-- **Development Velocity**: 50% faster time-to-market for new data products
-- **System Reliability**: 99.7% pipeline success rate with automated error recovery
-- **Scalability**: Horizontal scaling supporting 10x increased throughput
-
-### Research & Innovation Contributions
-
-**Real-Time Cybersecurity Detection Platform**  
-*Advanced Academic Research Project*
-- **Processing Latency**: Sub-2-second end-to-end threat detection
-- **Throughput Capacity**: 10,000+ events per second sustained processing
-- **Detection Accuracy**: 95% threat identification rate with minimal false positives
-- **System Architecture**: Fault-tolerant distributed processing with automated failover
-
-**AI-Powered Career Matching System**  
-*Independent Research & Development*
-- **Processing Capacity**: 500+ job postings analyzed daily
-- **Matching Precision**: 92% accuracy in CV-job relevance scoring
-- **System Performance**: Sub-100ms API response time with Redis optimization
-- **Language Support**: Multi-language NLP processing for global deployment
+**Visual ETL Pipeline Editor**
+- Developed visual ETL pipeline editor with specialized nodes for ingestion, transformation, validation, and error handling
+- Optimized pipelines with orchestration and caching resulting in 40% response time reduction
+- **Technology Stack**: React, TypeScript, Redux, REST APIs
+- **Innovation**: Democratized data pipeline development through intuitive visual interface
 
 ---
 
-## Technical Architecture Expertise
+## Technical Project Portfolio
 
 <div align="center">
 
@@ -86,94 +63,167 @@ Currently completing advanced engineering studies at Morocco's premier telecommu
 
 </div>
 
-### Data Engineering & Cloud Architecture
-**Core Technologies**: Apache Spark (PySpark, Scala), Apache Kafka, Apache Airflow  
-**Cloud Platforms**: Google Cloud Platform (BigQuery, Dataflow, Composer), Docker containerization  
-**Database Systems**: PostgreSQL, MongoDB, Redis, Teradata enterprise systems  
-**Performance Optimization**: Query optimization, distributed computing, caching strategies
+### **Real-Time Cybersecurity Detection System** | *Academic Research*
+*Distributed streaming platform for ML-based threat detection*
 
-### Machine Learning & AI Systems
+**Technical Architecture**:
+- Kafka-based streaming ingestion for real-time log analysis
+- PySpark Structured Streaming for distributed processing
+- MLlib integration for automated attack detection
+- MongoDB for time-series data storage with sub-2s alert delivery
+
+**Performance Metrics**:
+- Real-time processing with <2s end-to-end latency
+- Automated monitoring and alert system
+- Scalable distributed architecture
+
+### **CarriereAI - Intelligent Job Matching Platform** | *Personal Project*
+*End-to-end pipeline for automated CV-job matching*
+
+**System Components**:
+- Multi-source job scraping pipeline processing 500+ jobs daily
+- Apache Spark and Scala for distributed data processing
+- OCR and NLP integration for intelligent CV-job matching
+- Django REST API with React frontend interface
+
+**Key Features**:
+- Automated CV and cover letter generation
+- Semantic job matching algorithms
+- Real-time processing capabilities
+- Scalable microservices architecture
+
+### **AI Media Authenticity Detector** | *Computer Vision Research*
+*VGG16-based CNN for detecting AI-generated content*
+
+**Technical Implementation**:
+- VGG16 architecture with transfer learning optimization
+- Data augmentation and OpenCV preprocessing pipeline
+- High-accuracy detection of AI-generated and manipulated images
+- Production-ready deployment with batch processing support
+
+**Research Impact**:
+- Robust digital media authenticity verification
+- Advanced computer vision techniques
+- Scalable inference pipeline
+
+### **Advanced Image Classification System** | *Deep Learning Project*
+*Multi-class image classification with 94% accuracy*
+
+**Architecture Details**:
+- Custom CNN architecture with ResNet50 transfer learning
+- Comprehensive data preprocessing and augmentation pipeline
+- Advanced evaluation metrics and model optimization
+- **Performance**: 94% classification accuracy on test dataset
+
+### **Complete ETL Data Pipeline** | *Data Engineering Project*
+*End-to-end data lifecycle for animation department analytics*
+
+**Pipeline Components**:
+- Multi-source data extraction (CSV, APIs, databases)
+- Python-based transformation with star schema design
+- SQLite data warehouse with optimized indexing
+- Power BI dashboard with interactive visualizations
+- Automated processing with Cron job scheduling
+
+**Business Value**:
+- Time allocation and resource utilization tracking
+- Automated reporting for management decisions
+- Scalable ETL architecture pattern
+
+---
+
+## Core Technical Competencies
+
+### **Data Engineering & Cloud Architecture**
+**Languages**: Python (Advanced), SQL (Advanced), Scala  
+**Streaming**: Apache Kafka, PySpark Streaming, real-time processing  
+**Cloud Platforms**: Google Cloud Platform (BigQuery, Dataflow), Docker containerization  
+**Data Orchestration**: Apache Airflow, ETL/ELT pipelines, automated scheduling
+
+### **Machine Learning & AI Systems**
 **ML Frameworks**: TensorFlow, PyTorch, Spark MLlib  
-**Computer Vision**: OpenCV, CNN architectures, transfer learning  
-**Natural Language Processing**: Text classification, semantic analysis, multilingual processing  
-**MLOps**: Model deployment, automated retraining, A/B testing frameworks
+**Computer Vision**: OpenCV, CNN architectures, transfer learning, VGG16  
+**NLP**: Text processing, OCR integration, semantic analysis  
+**MLOps**: Model deployment, automated retraining, performance monitoring
 
-### Enterprise Software Development
-**Backend Systems**: Django REST Framework, FastAPI, microservices architecture  
-**Frontend Technologies**: React, TypeScript, Redux, enterprise UI frameworks  
-**API Integration**: REST APIs, GraphQL, Tableau Server API, enterprise connectors  
-**Software Architecture**: Clean architecture, domain-driven design, scalable system patterns
-
----
-
-## Professional Development & Leadership
-
-<div align="center">
-
-![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&icon_color=58a6ff&count_private=true&include_all_commits=true)
-
-![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&langs_count=8)
-
-</div>
-
-### Educational Excellence
-
-**National Institute of Posts and Telecommunications (INPT)**  
-*Engineering Degree in Data Engineering* | Expected Graduation: June 2026  
-Morocco's premier institution for telecommunications and data technology education  
-Comprehensive curriculum in distributed systems, machine learning infrastructure, enterprise architecture
-
-**Mathematics-Physics Preparatory Program**  
-*National Ranking: 133 out of 4,000 candidates* | Top 3.3% National Performance  
-Rigorous academic foundation in advanced mathematics, physics, analytical problem-solving
-
-### Executive Leadership Experience
-
-**Event Director - INPT Olympics 2024**  
-*Morocco's Premier Inter-School Engineering Competition*
-- **Scale**: Successfully coordinated 7,000+ participant technical event
-- **Team Management**: Led 15+ cross-functional teams across multiple domains
-- **Budget Responsibility**: Managed 170,000 MAD budget with full P&L accountability
-- **Stakeholder Coordination**: Orchestrated corporate partnerships and multi-venue logistics
-- **Operational Excellence**: Delivered flawless 3-day event execution with zero critical incidents
+### **Enterprise Development**
+**Backend**: Django REST Framework, FastAPI, microservices  
+**Frontend**: React, TypeScript, Redux, responsive design  
+**Databases**: PostgreSQL, MongoDB, Redis caching, Teradata  
+**Integration**: REST APIs, Tableau Server API, enterprise connectors
 
 ---
 
-## Research Publications & Technical Contributions
-
-### Distributed Systems Research
-**"Real-Time Threat Detection Using Distributed Stream Processing"**  
-Advanced implementation of Kafka-based streaming architecture with ML integration  
-Demonstrated sub-second processing capabilities at enterprise scale
-
-**"Enterprise Data Migration Strategies for Cloud-Native Architectures"**  
-Comprehensive analysis of legacy system modernization approaches  
-Focus on zero-downtime migration techniques and cost optimization strategies
-
-### Open Source Contributions
-**CarriereAI Platform** - Intelligent job matching system with advanced NLP processing  
-**AI Media Detector** - Production-ready deepfake detection using transfer learning  
-**Cybersecurity Analytics** - Real-time threat detection with machine learning integration
-
----
-
-## Global Professional Readiness
+## GitHub Analytics & Contributions
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&color=blue&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/abdeladime2003?label=Professional+Network&style=flat-square&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/abdeladime2003?label=Followers&style=flat-square&color=blue)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&icon_color=58a6ff&count_private=true)](https://github.com/abdeladime2003)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&langs_count=8)](https://github.com/abdeladime2003)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdeladime2003&theme=dark&hide_border=true&ring=58a6ff&currStreakLabel=58a6ff&fire=58a6ff)](https://github.com/abdeladime2003)
 
 </div>
 
-**Languages**: Arabic (Native), French (Fluent), English (Professional Proficiency)  
-**Cultural Intelligence**: Morocco-based with international collaboration experience  
-**Remote Leadership**: Proven distributed team coordination and stakeholder management capabilities  
-**Technical Communication**: Extensive experience in technical documentation and cross-functional alignment
+---
+
+## Academic Excellence & Leadership
+
+### **Educational Background**
+
+**National Institute of Posts and Telecommunications (INPT)** | *2023-2026*  
+*Engineering Degree in Data Engineering* | Rabat, Morocco  
+Premier Moroccan institution for telecommunications and data technology education
+
+**Mathematics-Physics Preparatory Classes** | *2021-2023*  
+*Ranked 133 out of 4,000 candidates* | Top 3.3% National Performance  
+Common National Exam (CNC) - Morocco's most competitive academic examination
+
+### **Leadership & Management Experience**
+
+**Event Organization Lead** | *INPT Olympics 2024*  
+*Morocco's Premier Inter-School Engineering Competition*
+- Successfully directed event with 7,000+ participants over 3 days
+- Led 15+ cross-functional team members across multiple technical domains
+- Managed budget of 170,000 MAD with full financial accountability
+- Coordinated logistics, corporate partnerships, and multi-venue operations
+- Delivered zero-incident event execution with comprehensive stakeholder management
 
 ---
 
-## Contact & Professional Networks
+## Featured Repository Highlights
+
+### **📊 [CarriereAI](https://github.com/abdeladime2003/CarriereAI)**
+Complete job recommendation platform with Spark/Scala processing and intelligent matching
+
+### **🔒 [CyberDetection](https://github.com/abdeladime2003/CyberDetection)**  
+Real-time cybersecurity detection using distributed streaming and machine learning
+
+### **🤖 [AI-Media-Detector](https://github.com/abdeladime2003/ai-media-detector)**
+VGG16-based CNN for detecting AI-generated and manipulated media content
+
+### **⚡ [ETL-Pipeline](https://github.com/abdeladime2003/ETL_Pipeline)**
+End-to-end data engineering pipeline with automated processing and visualization
+
+### **🎯 [ImageClassification](https://github.com/abdeladime2003/ImageClassification)**
+Advanced deep learning model achieving 94% accuracy on multi-class classification
+
+---
+
+## Global Professional Profile
+
+**Languages**: Arabic (Native) • French (Fluent) • English (Professional)  
+**Location**: Rabat, Morocco  
+**Work Authorization**: Available for international opportunities  
+**Remote Collaboration**: Experienced in distributed team coordination
+
+---
+
+## Professional Networks & Contact
 
 <div align="center">
 
@@ -185,21 +235,23 @@ Focus on zero-downtime migration techniques and cost optimization strategies
 
 ---
 
-## Career Objectives
+## Career Objectives & Availability
 
 <div align="center">
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Seeking%20Principal%20Data%20Engineering%20Opportunities&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Available%20January%202026%20•%20Enterprise%20Focus%20•%20Global%20Deployment&descAlignY=85&descSize=14)
+![Footer Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Seeking%20Data%20Engineering%20Opportunities&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Available%20January%202026%20•%20Minimum%206%20Months%20•%20Enterprise%20Focus&descAlignY=85&descSize=14)
 
 </div>
 
-**Position Sought**: Principal Data Engineer / Senior ML Infrastructure Engineer  
-**Availability**: January 2026 (6-month commitment minimum)  
-**Focus Areas**: Enterprise data architecture, real-time systems, ML infrastructure, team leadership  
-**Geographic Flexibility**: Open to global opportunities with remote collaboration capabilities
+**Position Target**: Data Engineering Internship / Junior Data Engineer  
+**Availability**: January 2026 onwards  
+**Duration**: 6-month minimum commitment  
+**Focus Areas**: Cloud data architecture, real-time systems, ML infrastructure, enterprise data solutions
+
+**Technical Interests**: Distributed systems, stream processing, cloud-native architectures, MLOps, data platform engineering
 
 ---
 
 <div align="center">
-<b>Transforming enterprise data challenges into competitive advantages through innovative engineering excellence</b>
+<b>Building scalable data solutions that bridge the gap between raw information and actionable business intelligence</b>
 </div>
