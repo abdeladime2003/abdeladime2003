@@ -262,12 +262,6 @@
 ![Active Projects](https://img.shields.io/badge/Active_Projects-5+-6C5CE7?style=flat-square&labelColor=2D3748)
 
 </div>
-**Performance Trajectory:**
-- **2023:** Foundation & Learning (2 contributions)
-- **2024:** Accelerated Development (224 contributions - 11,100% growth)
-- **2025:** Professional Projects (203 contributions - consistent excellence)
-- **Total:** 429+ contributions with exponential growth trajectory
-
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdeladime2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&custom_title=Contribution%20Activity%20Graph)
