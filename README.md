@@ -267,9 +267,9 @@
 
 <div align="center">
 
-![Contributions](https://progress-bar.dev/85/?scale=100&title=Total%20Contributions&width=300&color=ff6b6b&suffix=%20429+)
-![Growth Rate](https://progress-bar.dev/100/?scale=100&title=Growth%20Rate&width=300&color=00b894&suffix=%2011100%)
-![Active Projects](https://progress-bar.dev/75/?scale=100&title=Active%20Projects&width=300&color=6c5ce7&suffix=%205+)
+![Contributions](https://progress-bar.dev/85/?scale=100&title=Total%20Contributions&width=300&color=ff6b6b&suffix=+)
+![Growth Rate](https://progress-bar.dev/100/?scale=100&title=Growth%20Rate&width=300&color=00b894&suffix=%)
+![Active Projects](https://progress-bar.dev/75/?scale=100&title=Active%20Projects&width=300&color=6c5ce7&suffix=+)
 
 </div>
 
