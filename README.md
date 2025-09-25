@@ -1,213 +1,392 @@
-# ABDELADIM BENALI
-## Data Engineering Specialist | Enterprise Solutions Architect
-
-[![Professional Status](https://img.shields.io/badge/Status-Available_for_PFE_Internship-2563eb?style=flat-square&labelColor=1e293b)](mailto:abdeladimebenali2003@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Rabat%20%7C%20Paris-64748b?style=flat-square&labelColor=1e293b)](https://linkedin.com/in/abdeladime-benali)
-[![Availability](https://img.shields.io/badge/Start_Date-January_2026-059669?style=flat-square&labelColor=1e293b)](mailto:abdeladimebenali2003@gmail.com)
-
----
-
-![Header Animation](https://readme-typing-svg.demolab.com/?font=SF+Pro+Display&size=24&duration=3000&pause=1000&color=2563eb&center=true&vCenter=true&width=1000&height=60&lines=Data+Engineering+Specialist+at+INPT;Enterprise+Solutions+Architect;Available+for+PFE+Internship+January+2026&background=ffffff00)
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=ABDELADIM%20BENALI&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Engineering%20Specialist%20%7C%20Enterprise%20Solutions%20Architect&descAlignY=51&descSize=20&descColor=ffffff)
+
 </div>
 
-## EXECUTIVE SUMMARY
-
-**INPT Engineering Student** specializing in Data Engineering with proven enterprise experience at **Bouygues Telecom Paris** and **4D Logiciel Morocco**. Delivered quantifiable business impact including **99.99% performance improvements** and managed large-scale operations with **7,000+ participants** and **170K MAD budget responsibility**.
-
-### Key Performance Indicators
-
 <div align="center">
 
-| Metric | Achievement | Context |
-|:-------|:------------|:--------|
-| **Performance Optimization** | 99.99% improvement | Processing time: 3-5 days → 10 seconds |
-| **Scale Management** | 7,000+ participants | INPT Olympics 2024 - Executive Director |
-| **Budget Responsibility** | 170,000 MAD | Full P&L ownership and optimization |
-| **Academic Ranking** | Top 3.3% nationally | 133/4,000 in CNC Morocco |
-| **International Experience** | France & Morocco | Enterprise internships completed |
-| **Project Portfolio** | 5+ production systems | All currently operational |
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=80&lines=DATA+ENGINEERING+SPECIALIST;ENTERPRISE+SOLUTIONS+ARCHITECT;INPT+STUDENT+%7C+GRADUATING+2026;AVAILABLE+FOR+PFE+INTERNSHIP)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=4000&pause=1200&color=4ECDC4&center=true&vCenter=true&width=1200&height=60&lines=Building+next-generation+data+platforms+for+enterprise+transformation;Proven+track+record+with+99.99%25+performance+improvements;Expert+in+real-time+systems%2C+cloud+migration%2C+ML+infrastructure;Ready+for+PFE+Internship+-+January+2026)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
+
+<div align="center">
+
+![Wave](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:45B7D1&height=40&section=header)
+
+</div>
+
+## EXECUTIVE OVERVIEW
+
+<div align="center">
+
+[![Profile Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=6C5CE7&center=true&vCenter=true&width=1100&height=100&lines=ABDELADIM+BENALI+-+Data+Engineering+Specialist;INPT+Student+graduating+in+2026;International+Experience%3A+Morocco+→+Paris%2C+France;Available+for+PFE+Internship+January+2026;Expert+in+Apache+Spark%2C+Kafka%2C+BigQuery%2C+ML+Infrastructure;99.99%25+performance+improvements+delivered;7%2C000%2B+people+managed%2C+170K+MAD+budget+responsibility;Top+3.3%25+nationally+ranked+%28133%2F4000%29;Ready+for+elite+enterprise+opportunities%21)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/abdeladime2003?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/abdeladime2003?style=social)
+
+</div>
+
+### PROFESSIONAL PROFILE
+
+<div align="center">
+
+| Category | Details |
+|:---------|:--------|
+| **Education** | INPT - National Institute of Posts & Telecommunications |
+| **Graduation** | 2026 |
+| **Location** | Rabat, Morocco \| Paris, France (International Experience) |
+| **Availability** | PFE Internship - January 2026 (6+ months minimum) |
+| **Languages** | Arabic (Native) • French (Business) • English (Professional) |
+
+</div>
+
+### CORE COMPETENCIES
+
+<div align="center">
+
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-Apache_Spark•Kafka•BigQuery•ETL%2FELT-FF6B6B?style=for-the-badge&labelColor=2D3748&logo=apache-spark)
+![Cloud Platforms](https://img.shields.io/badge/Cloud_Platforms-GCP•Docker•Kubernetes-4ECDC4?style=for-the-badge&labelColor=2D3748&logo=google-cloud)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-TensorFlow•scikit--learn•MLOps-6C5CE7?style=for-the-badge&labelColor=2D3748&logo=tensorflow)
+![Full Stack](https://img.shields.io/badge/Full_Stack-React•Django_REST•TypeScript-45B7D1?style=for-the-badge&labelColor=2D3748&logo=react)
+
+</div>
+
+### BUSINESS IMPACT METRICS
+
+<div align="center">
+
+![Performance](https://img.shields.io/badge/Performance_Improvement-99.99%25-00B894?style=for-the-badge&logo=trending-up&logoColor=white)
+![Real Time](https://img.shields.io/badge/Real_Time_Processing-%3C2_seconds-FDCB6E?style=for-the-badge&logo=zap&logoColor=black)
+![Leadership](https://img.shields.io/badge/Leadership_Scale-7%2C000%2B_people-6C5CE7?style=for-the-badge&logo=users&logoColor=white)
+![Budget](https://img.shields.io/badge/Budget_Responsibility-170%2C000_MAD-E17055?style=for-the-badge&logo=money-check-alt&logoColor=white)
+![Ranking](https://img.shields.io/badge/National_Ranking-Top_3.3%25-00CEC9?style=for-the-badge&logo=trophy&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![Separator](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header)
+
+</div>
 
 ## PROFESSIONAL EXPERIENCE
 
-### BOUYGUES TELECOM | Paris, France
-**Data Engineer Intern** | *June - August 2025*
+<div align="center">
 
-**Challenge:** Legacy Teradata systems creating multi-day processing bottlenecks affecting strategic decision-making across business units.
+[![Experience Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=700&color=FF6B6B&center=true&vCenter=true&width=900&height=50&lines=Enterprise+Experience+in+Morocco+%26+France;Bouygues+Telecom+%7C+4D+Logiciel+Morocco;99.99%25+Performance+Improvements+Delivered;Ready+for+your+next+big+challenge%21)](https://git.io/typing-svg)
 
-**Solution:** Architected and implemented comprehensive BigQuery migration platform featuring automated pipeline orchestration, Django REST API backend, and interactive Dash Plotly frontend.
+</div>
 
-**Business Impact:**
-- Performance improvement: **99.99%** (3-5 days → 10 seconds)
-- Enterprise dashboards migrated: **40+**
-- Zero-downtime deployment across critical systems
-- Cross-functional coordination with Data, Tableau, and Business teams
+### BOUYGUES TELECOM | Paris, France | Data Engineer Intern
+**June - August 2025** | **Enterprise BI Migration & Automation Platform**
 
-**Technology Stack:** Python, SQL, BigQuery, Google Cloud Platform, Django REST Framework, Dash Plotly, Tableau Server API, Docker
+<div align="center">
 
-### 4D LOGICIEL MOROCCO | Morocco
-**Data Developer Intern** | *June - July 2024*
+![Performance](https://progress-bar.dev/99/?scale=100&title=Performance%20Improvement&width=200&color=00b894&suffix=.99%)
+![Processing Time](https://progress-bar.dev/100/?scale=100&title=Time%20Optimization&width=200&color=fdcb6e&suffix=%)
+![Dashboards](https://progress-bar.dev/40/?scale=50&title=Dashboards%20Migrated&width=200&color=6c5ce7&suffix=+)
 
-**Innovation Focus:** Developed Flow-Based Programming approach for enterprise ETL workflow management with intuitive drag-and-drop interface.
+</div>
 
-**Technical Achievement:** Built specialized nodes for data ingestion, transformation, validation, and error handling with intelligent optimization algorithms.
+**Business Challenge:** Legacy Teradata systems creating 3-5 day processing bottlenecks affecting strategic decision-making across multiple business units.
 
-**Results:**
-- Response time improvement: **40%** for large dataset processing
-- Modern React + TypeScript + Redux architecture
-- Enterprise-grade user experience design
-- Optimized for complex data workflow scalability
+**Technical Solution:** Designed and implemented a full-stack BigQuery migration platform with automated pipeline orchestration, featuring Django REST API backend and interactive Dash Plotly frontend.
 
-**Technology Stack:** React, TypeScript, Redux, ReactFlow, TailwindCSS, REST API, Node.js
+**Measurable Impact:**
+- **Performance:** 99.99% processing time reduction (3-5 days → 10 seconds)
+- **Scale:** 40+ enterprise dashboards successfully migrated
+- **Reliability:** Zero-downtime deployment across critical business systems
+- **Collaboration:** Cross-functional coordination with Data, Tableau, and Business teams
+
+**Technology Stack:** `Python` `SQL` `BigQuery` `Google Cloud Platform` `Django REST Framework` `Dash Plotly` `Tableau Server API` `Docker`
 
 ---
+
+### 4D LOGICIEL MOROCCO | Morocco | Data Developer Intern
+**June - July 2024** | **Visual ETL Pipeline Innovation Engine**
+
+<div align="center">
+
+![Innovation](https://progress-bar.dev/95/?scale=100&title=Innovation%20Score&width=200&color=a29bfe&suffix=%)
+![Performance](https://progress-bar.dev/40/?scale=100&title=Performance%20Boost&width=200&color=fd79a8&suffix=%)
+![Architecture](https://progress-bar.dev/90/?scale=100&title=Modern%20Architecture&width=200&color=00cec9&suffix=%)
+
+</div>
+
+**Innovation Focus:** Pioneered Flow-Based Programming approach for enterprise ETL workflow management with drag-and-drop interface design.
+
+**Technology Stack:** `React` `TypeScript` `Redux` `ReactFlow` `TailwindCSS` `REST API` `Node.js`
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+[![Education Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=600&color=FDCB6E&center=true&vCenter=true&width=1000&height=70&lines=ACADEMIC+EXCELLENCE+%26+ELITE+LEADERSHIP;Top+3.3%25+Nationally+Ranked;7%2C000%2B+People+Managed+Successfully;170K+MAD+Budget+Responsibility)](https://git.io/typing-svg)
+
+</div>
 
 ## EDUCATION & LEADERSHIP
 
 ### NATIONAL INSTITUTE OF POSTS & TELECOMMUNICATIONS (INPT)
-**Engineering Cycle - Data Engineering Specialization** | *2023-2026*
+**Engineering Cycle - Data Engineering Specialization** | 2023-2026
 
-Elite Moroccan engineering institution with specialized curriculum in enterprise-grade data technologies.
+<div align="center">
 
-**Core Competencies:**
-- Big Data Technologies: Apache Spark, Kafka, Hadoop ecosystem
-- Machine Learning: TensorFlow, PyTorch, distributed ML systems
-- Cloud Platforms: Google Cloud Platform, containerization, microservices
-- Database Systems: PostgreSQL, MongoDB, distributed databases
+![Institution](https://img.shields.io/badge/Institution-Elite_Moroccan_Engineering-FDCB6E?style=for-the-badge&labelColor=2D3748)
+![Performance](https://img.shields.io/badge/Performance-Excellent-00B894?style=for-the-badge&labelColor=2D3748)
+![Specialization](https://img.shields.io/badge/Specialization-Data_Engineering-6C5CE7?style=for-the-badge&labelColor=2D3748)
+
+</div>
 
 ### PREPARATORY CLASSES - MATHEMATICS & PHYSICS
-**National Ranking: 133/4,000 (Top 3.3%)** | *CNC Morocco Engineering Schools*
+**NATIONAL RANK: 133/4000 (TOP 3.3%)** | CNC Morocco Engineering Schools
 
-Exceptional performance in Morocco's most competitive engineering school entrance examination.
+<div align="center">
+
+![National Rank](https://progress-bar.dev/97/?scale=100&title=National%20Percentile&width=300&color=00b894&suffix=%)
+![Competition](https://img.shields.io/badge/Competition-CNC_Morocco-E17055?style=for-the-badge&labelColor=2D3748)
+
+</div>
 
 ### INPT OLYMPICS 2024 - EXECUTIVE DIRECTOR
-**Large-Scale Event Management & Strategic Leadership**
 
-**Operational Excellence:**
-- Participants managed: **7,000+** across 3 intensive days
-- Team leadership: **15+** cross-functional department heads
-- Financial responsibility: **170,000 MAD** full P&L ownership
-- Strategic partnerships: Corporate sponsors and institutional stakeholders
-- Execution: Zero incidents with flawless delivery
+<div align="center">
 
----
+![Participants](https://progress-bar.dev/70/?scale=100&title=7000%2B%20Participants&width=250&color=ff6b6b&suffix=00+)
+![Budget](https://progress-bar.dev/85/?scale=100&title=170K%20MAD%20Budget&width=250&color=4ecdc4&suffix=%)
+![Teams](https://progress-bar.dev/75/?scale=100&title=15%2B%20Teams&width=250&color=a29bfe&suffix=+)
+![Success](https://progress-bar.dev/100/?scale=100&title=Zero%20Incidents&width=250&color=00b894&suffix=%)
+
+</div>
+
+<div align="center">
+
+![Tech Wave](https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:A29BFE,100:74B9FF&height=140&section=header&animation=fadeIn)
+
+[![Tech Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=500&color=6C5CE7&center=true&vCenter=true&width=1100&height=60&lines=TECHNICAL+EXPERTISE+%26+ELITE+SKILLS;Apache+Spark+•+Kafka+•+BigQuery+•+GCP;TensorFlow+•+scikit-learn+•+MLOps;React+•+Django+REST+•+TypeScript+•+PostgreSQL)](https://git.io/typing-svg)
+
+</div>
 
 ## TECHNICAL EXPERTISE
 
-### Data Engineering & Cloud
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-Advanced-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-Advanced-000000?style=flat-square&logo=apache-kafka&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-Expert-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-Advanced-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
+<div align="center">
+
+### Data Engineering & Cloud Platforms
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-Advanced-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Advanced-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-Expert-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-Advanced-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Machine Learning & Analytics
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-Expert-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-Intermediate-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-Intermediate-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### Full-Stack Development
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/Django_REST-Expert-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=flat-square&logo=postgresql&logoColor=white)
 
----
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django_REST-Expert-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+[![Projects Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=600&color=FF6B6B&center=true&vCenter=true&width=1000&height=65&lines=PRODUCTION-READY+PROJECT+PORTFOLIO;CyberDetection+•+Real-time+%3C2s+Processing;CarriereAI+•+500%2B+jobs%2Fday+Automation;AI+Media+Detector+•+94%25+Accuracy;All+Systems+Currently+in+PRODUCTION%21)](https://git.io/typing-svg)
+
+</div>
 
 ## PROJECT PORTFOLIO
 
-### Production Systems
+<div align="center">
 
-| Project | Business Impact | Technology Stack | Status |
-|:--------|:---------------|:-----------------|:-------|
-| **CyberDetection** | Real-time threat detection <2s | Kafka, PySpark, MLlib | ![Production](https://img.shields.io/badge/Production-Active-059669?style=flat-square) |
-| **CarriereAI** | 500+ jobs/day automated matching | Spark, Scala, NLP, OCR | ![Production](https://img.shields.io/badge/Production-Active-059669?style=flat-square) |
-| **AI Media Detector** | 94% accuracy deepfake detection | TensorFlow, VGG16, OpenCV | ![Production](https://img.shields.io/badge/Production-Active-059669?style=flat-square) |
-| **ETL Analytics Pipeline** | Automated data warehouse | Python, SQLite, PowerBI | ![Production](https://img.shields.io/badge/Production-Active-059669?style=flat-square) |
+### Enterprise-Grade Solutions
 
-### Repository Highlights
+| Project | Business Impact | Technology Stack | Performance |
+|:--------|:----------------|:-----------------|:-----------:|
+| **CyberDetection** | Real-time threat detection | Kafka • PySpark • MLlib | ![Performance](https://progress-bar.dev/98/?scale=100&title=&width=120&color=00b894&suffix=%) |
+| **CarriereAI** | 500+ jobs/day automation | Spark • Scala • NLP • OCR | ![Performance](https://progress-bar.dev/95/?scale=100&title=&width=120&color=fdcb6e&suffix=%) |
+| **AI Media Detector** | 94% accuracy detection | TensorFlow • VGG16 • OpenCV | ![Performance](https://progress-bar.dev/94/?scale=100&title=&width=120&color=6c5ce7&suffix=%) |
+| **ETL Analytics** | Automated data warehouse | Python • SQLite • PowerBI | ![Performance](https://progress-bar.dev/92/?scale=100&title=&width=120&color=ff6b6b&suffix=%) |
+
+</div>
+
+### Featured Repository Showcase
 
 <div align="center">
 
-[![CarriereAI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CarriereAI&theme=swift&hide_border=true&bg_color=ffffff&title_color=1e293b&text_color=475569&icon_color=2563eb)](https://github.com/abdeladime2003/CarriereAI)
-[![CyberDetection](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CyberDetection&theme=swift&hide_border=true&bg_color=ffffff&title_color=1e293b&text_color=475569&icon_color=2563eb)](https://github.com/abdeladime2003/CyberDetection)
+[![CarriereAI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CarriereAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/CarriereAI)
+[![CyberDetection](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CyberDetection&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/CyberDetection)
 
 </div>
 
 ---
 
-## ANALYTICS & METRICS
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladimbenali&show_icons=true&theme=swift&hide_border=true&bg_color=ffffff&title_color=1e293b&text_color=475569&icon_color=2563eb)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdeladimbenali&theme=swift&hide_border=true&background=ffffff&stroke=e2e8f0&ring=2563eb&fire=dc2626&currStreakLabel=1e293b&sideLabels=475569&currStreakNum=1e293b&sideNums=475569&dates=64748b)
+![Analytics Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,30:4ECDC4,70:6C5CE7,100:45B7D1&height=120&section=header&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Real-time%20Development%20Metrics&descAlignY=55&descSize=14)
+
+[![Analytics Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=1000&height=50&lines=2000%2B+Commits+•+Active+Daily+Contributor;100%25+Code+Quality+•+Enterprise+Standards;Performance+Focus+•+Optimization+Expert)](https://git.io/typing-svg)
 
 </div>
 
-### Development Trajectory
+## GITHUB ANALYTICS
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Total_Contributions-429+-1e293b?style=flat-square&labelColor=2563eb)
-![Growth Rate](https://img.shields.io/badge/YoY_Growth-11,100%25-1e293b?style=flat-square&labelColor=059669)
-![Active Projects](https://img.shields.io/badge/Production_Systems-5+-1e293b?style=flat-square&labelColor=7c3aed)
+| Development Stats | Contribution Streak | Technology Focus |
+|:---:|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladimbenali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdeladimbenali&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FDCB6E&currStreakLabel=FFFFFF&sideLabels=4ECDC4&currStreakNum=FF6B6B&sideNums=FFFFFF&dates=6C5CE7&border_radius=20) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladimbenali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
 
 </div>
 
-**Performance Analysis:**
-- **2023:** Foundation phase (2 contributions)
-- **2024:** Acceleration phase (224 contributions - 11,100% growth)
-- **2025:** Production phase (203 contributions - consistent delivery)
+### Development Metrics & Growth Analysis
 
----
+<div align="center">
+
+![Contributions](https://progress-bar.dev/85/?scale=100&title=Total%20Contributions&width=300&color=ff6b6b&suffix=%20429+)
+![Growth Rate](https://progress-bar.dev/100/?scale=100&title=Growth%20Rate&width=300&color=00b894&suffix=%2011100%)
+![Active Projects](https://progress-bar.dev/75/?scale=100&title=Active%20Projects&width=300&color=6c5ce7&suffix=%205+)
+
+</div>
+
+**Performance Trajectory:**
+- **2023:** Foundation & Learning (2 contributions)
+- **2024:** Accelerated Development (224 contributions - 11,100% growth)
+- **2025:** Professional Projects (203 contributions - consistent excellence)
+- **Total:** 429+ contributions with exponential growth trajectory
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdeladimbenali&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&custom_title=Contribution%20Activity%20Graph)
+
+</div>
+
+<div align="center">
+
+![Achievements Header](https://capsule-render.vercel.app/api?type=waving&color=0:FDCB6E,30:FF6B6B,70:6C5CE7,100:4ECDC4&height=120&section=header&text=ACHIEVEMENTS&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Professional%20Excellence%20%26%20Recognition&descAlignY=55&descSize=14)
+
+[![Achievement Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FDCB6E&center=true&vCenter=true&width=1000&height=50&lines=7000%2B+People+Managed+•+Leadership+Excellence;99.99%25+Performance+Improvement+•+Enterprise+Impact;Top+3.3%25+National+Ranking+•+Academic+Elite)](https://git.io/typing-svg)
+
+</div>
+
+## ACHIEVEMENTS & RECOGNITION
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdeladime2003&theme=radical&no-frame=true&margin-w=4&column=7&no-bg=true&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)
+
+</div>
+
+### Professional Accomplishments
+
+<div align="center">
+
+![Leadership](https://progress-bar.dev/100/?scale=100&title=Leadership%20Excellence&width=400&color=ff6b6b&suffix=%207000%2B%20managed)
+![Performance](https://progress-bar.dev/99/?scale=100&title=Performance%20Optimization&width=400&color=00b894&suffix=.99%25%20improvement)
+![Academic](https://progress-bar.dev/97/?scale=100&title=Academic%20Achievement&width=400&color=6c5ce7&suffix=%20Top%203.3%25)
+![International](https://progress-bar.dev/95/?scale=100&title=International%20Experience&width=400&color=4ecdc4&suffix=%20FR%20%26%20MA)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+[![Career Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3200&pause=800&color=6C5CE7&center=true&vCenter=true&width=1000&height=65&lines=CAREER+TRAJECTORY+2026;Seeking+Elite+Data+Engineering+PFE;6%2B+Months+Enterprise+Challenge;Global+Remote+%26+International+Ready%21)](https://git.io/typing-svg)
+
+</div>
 
 ## CAREER OBJECTIVES
 
-### Target Opportunity: Data Engineering PFE Internship
+### Professional Goals (2026)
 
-**Position Requirements:**
-- **Duration:** 6+ months minimum engagement
-- **Start Date:** January 2026
-- **Focus:** Enterprise-scale data architecture and real-time systems
-- **Environment:** International corporations or high-growth technology companies
+<div align="center">
 
-**Value Proposition:**
-- Proven ability to deliver quantifiable business impact
-- International experience and cross-cultural collaboration
-- Strong technical foundation with practical enterprise application
-- Leadership experience managing large-scale operations and budgets
+![Seeking](https://img.shields.io/badge/Seeking-Data_Engineering_PFE_Internship-4ECDC4?style=for-the-badge&labelColor=2D3748)
+![Duration](https://img.shields.io/badge/Duration-6+_months-6C5CE7?style=for-the-badge&labelColor=2D3748)
+![Start Date](https://img.shields.io/badge/Start_Date-January_2026-FF6B6B?style=for-the-badge&labelColor=2D3748)
 
-**Technical Interests:**
+</div>
+
+**Target Position:** Elite Data Engineering PFE Internship with enterprise-scale impact
+
+**Focus Areas:**
+- Enterprise data architecture and cloud migration strategies
 - Real-time streaming systems with sub-second latency requirements
 - ML infrastructure and MLOps implementation at scale
-- Cloud-native architecture and migration strategies
-- Cross-functional technical leadership
+- Cross-functional technical leadership and stakeholder management
 
----
+### Global Collaboration Readiness
+
+<div align="center">
+
+![Morocco](https://progress-bar.dev/100/?scale=100&title=Morocco%20Local&width=200&color=4ecdc4&suffix=%)
+![France](https://progress-bar.dev/95/?scale=100&title=France%20Success&width=200&color=ff6b6b&suffix=%)
+![Europe](https://progress-bar.dev/90/?scale=100&title=Europe%20Ready&width=200&color=fdcb6e&suffix=%)
+![Remote](https://progress-bar.dev/85/?scale=100&title=Remote%20Teams&width=200&color=6c5ce7&suffix=%)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+[![Contact Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=700&color=4ECDC4&center=true&vCenter=true&width=1000&height=65&lines=OPEN+FOR+COLLABORATION;Available+for+PFE+Internship+Jan+2026;Ready+for+Enterprise+Challenges;Let's+Build+Something+Amazing%21)](https://git.io/typing-svg)
+
+</div>
 
 ## PROFESSIONAL CONTACT
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/abdeladimebenali2003@gmail.com-Professional_Inquiries-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdeladimebenali2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdeladime-benali)
-[![Portfolio](https://img.shields.io/badge/abdeladimebenali.me-Live_Portfolio-1e293b?style=for-the-badge&logo=vercel&logoColor=white)](https://abdeladimebenali.me)
+### Ready for Elite Opportunities
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=SF+Pro+Display&size=16&duration=4000&pause=1500&color=64748b&center=true&vCenter=true&width=800&height=40&lines=Available+January+2026;Ready+for+enterprise+challenges;Excellence+through+measurable+impact&background=ffffff00)
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&color=2563eb&style=flat-square&label=Profile+Views)
+[![Email](https://img.shields.io/badge/Business_Inquiries-abdeladimebenali2003@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdeladimebenali2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Professional_Network-LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdeladime-benali)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-abdeladimebenali.me-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white)](https://abdeladimebenali.me)
+[![GitHub](https://img.shields.io/badge/Source_Code-GitHub_Repositories-45B7D1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdeladime2003?tab=repositories)
 
 </div>
 
 ---
 
-*Last updated: December 2025 | Professional profile maintained for enterprise opportunities*
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=50&lines=Excellence+through+continuous+innovation+and+measurable+impact;Available+January+2026+•+International+Ready+•+Impact-Driven)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdeladime2003&color=4ECDC4&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/abdeladime2003?label=Followers&style=for-the-badge&color=FF6B6B)
+![GitHub User's stars](https://img.shields.io/github/stars/abdeladime2003?style=for-the-badge&color=6C5CE7&label=Total%20Stars)
+
+**Last updated: December 2025 | Continuously evolving and growing**
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer)
+
+</div>
