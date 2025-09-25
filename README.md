@@ -1,41 +1,39 @@
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=500&color=0ED8B9&center=true&vCenter=true&width=700&lines=Abdeladime+Benali+-+Data+Engineer;Enterprise+Data+Architect;Turning+Data+into+Business+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=600&color=30B6DD&center=true&vCenter=true&width=750&lines=Abdeladime+Benali+-+Enterprise+Data+Engineer;Architecting+Business+Impact+With+Data;Cloud%2C+AI%2C+Streaming+-+INPT+%7C+Bouygues+Telecom" alt="Typing SVG" />
 </p>
+
+<!-- BANNER (OPTIONNEL: mets ton URL ou supprime cette ligne) -->
+<!-- <p align="center"><img src="https://yourdomain.com/yourbanner.png" width="90%"></p> -->
 
 <!-- COLOR BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/abdeladime2003?label=Followers&color=0ED8B9&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/abdeladime2003?label=Followers&color=30B6DD&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/abdeladime2003?label=Stars&color=1E293B&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enterprise%20Solutions-99.99%25%20Performance-30B6DD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enterprise%20BI-99.99%25%20Performance-0ED8B9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud%20Migration-Zero%20Downtime-7A46E2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Engineering-Business%20Impact-FFB400?style=for-the-badge" />
 </p>
 
-<!-- EXECUTIVE SUMMARY -->
+---
+
 <div align="center">
-  <img src="https://github.com/abdeladime2003/abdeladime2003/assets/yourbanner.png" width="90%" />
-</div>
-<div align="center">
-  <b>Delivering enterprise-grade data platforms and cloud analytics.<br>Processing time reduced 3–5 days ➔ 10 seconds. 40+ dashboards migrated.<br>Ready for strategic impact at scale.</b>
+  <b style="font-size:1.6em; color:#1E293B">
+    Delivering enterprise-grade data platforms and cloud analytics.<br>
+    <span style="color:#30B6DD">3–5 days ➔ 10 seconds</span> processing, <span style="color:#0ED8B9">40+</span> dashboards migrated, strategic impact at scale.
+  </b>
 </div>
 
 ---
 
 <!-- ADVANCED STATS & GRAPHS -->
 <div align="center">
-  <a href="https://github.com/abdeladime2003">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&hide_title=true&hide_border=true&theme=radical" width="420">
-  </a>
-  <a href="https://github.com/abdeladime2003">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&hide_border=true&theme=radical" width="320">
-  </a>
-  <a href="https://github.com/abdeladime2003">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdeladime2003&bg_color=0ED8B9&color=1E293B&line=30B6DD&point=1E293B&area=true&hide_border=true" width="100%">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&hide_title=true&hide_border=true&theme=radical" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&hide_border=true&theme=radical" width="320">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdeladime2003&bg_color=30B6DD&color=1E293B&line=0ED8B9&point=7A46E2&area=true&hide_border=true" width="100%">
 </div>
 
-<!-- PROFILE TROPHIES -->
+<!-- TROPHIES -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdeladime2003&theme=algolia&margin-w=6&margin-h=6"/>
 </div>
