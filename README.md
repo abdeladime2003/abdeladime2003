@@ -201,9 +201,7 @@
 
 <!-- Featured Projects Showcase -->
 <h2 align="center">🚀 Featured Projects</h2>
-
 <div align="center">
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -229,10 +227,15 @@
       <br>
       <i>Real-time cybersecurity threat detection with streaming analytics &lt;2s</i>
     </td>
- 
+    <td align="center" width="50%">
+      <a href="https://github.com/abdeladime2003/PredictPro"><b>⚡ PredictPro</b></a><br>
+      <code>React • Django • TailwindCSS • AI/ML • REST API</code><br>
+      <img src="https://img.shields.io/github/stars/abdeladime2003/PredictPro?style=social" />
+      <br>
+      <i>Full-stack AI platform: Sports predictions, player transfers, image generation</i>
+    </td>
   </tr>
 </table>
-
 </div>
 
 ---
