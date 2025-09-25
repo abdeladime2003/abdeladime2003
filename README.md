@@ -46,7 +46,7 @@
 |:---------|:--------|
 | **Education** | INPT - National Institute of Posts & Telecommunications |
 | **Graduation** | 2026 |
-| **Location** | Rabat, Morocco \|
+| **Location** | Rabat, Morocco \| Paris, France (International Experience) | Paris, France (International Experience) |
 | **Availability** | PFE Internship - January 2026 (6+ months minimum) |
 | **Languages** | Arabic (Native) • French (Business) • English (Professional) |
 
@@ -92,7 +92,13 @@
 ### BOUYGUES TELECOM | Paris, France | Data Engineer Intern
 **June - August 2025** | **Enterprise BI Migration & Automation Platform**
 
+<div align="center">
 
+![Performance](https://progress-bar.dev/99/?scale=100&title=Performance%20Improvement&width=200&color=00b894&suffix=.99%)
+![Processing Time](https://progress-bar.dev/100/?scale=100&title=Time%20Optimization&width=200&color=fdcb6e&suffix=%)
+![Dashboards](https://progress-bar.dev/40/?scale=50&title=Dashboards%20Migrated&width=200&color=6c5ce7&suffix=+)
+
+</div>
 
 **Business Challenge:** Legacy Teradata systems creating 3-5 day processing bottlenecks affecting strategic decision-making across multiple business units.
 
@@ -111,7 +117,13 @@
 ### 4D LOGICIEL MOROCCO | Morocco | Data Developer Intern
 **June - July 2024** | **Visual ETL Pipeline Innovation Engine**
 
+<div align="center">
 
+![Innovation](https://progress-bar.dev/95/?scale=100&title=Innovation%20Score&width=200&color=a29bfe&suffix=%)
+![Performance](https://progress-bar.dev/40/?scale=100&title=Performance%20Boost&width=200&color=fd79a8&suffix=%)
+![Architecture](https://progress-bar.dev/90/?scale=100&title=Modern%20Architecture&width=200&color=00cec9&suffix=%)
+
+</div>
 
 **Innovation Focus:** Pioneered Flow-Based Programming approach for enterprise ETL workflow management with drag-and-drop interface design.
 
@@ -143,20 +155,21 @@
 
 <div align="center">
 
+![National Rank](https://progress-bar.dev/97/?scale=100&title=National%20Percentile&width=300&color=00b894&suffix=%)
 ![Competition](https://img.shields.io/badge/Competition-CNC_Morocco-E17055?style=for-the-badge&labelColor=2D3748)
 
 </div>
 
 ### INPT OLYMPICS 2024 - EXECUTIVE DIRECTOR
+
 <div align="center">
 
-![Participants](https://img.shields.io/badge/Participants-7,000+-FF6B6B?style=for-the-badge&labelColor=2D3748&logo=users&logoColor=white)
-![Budget](https://img.shields.io/badge/Budget-170K_MAD-4ECDC4?style=for-the-badge&labelColor=2D3748&logo=money-check-alt&logoColor=white)
-![Teams](https://img.shields.io/badge/Teams_Managed-15+-A29BFE?style=for-the-badge&labelColor=2D3748&logo=people-group&logoColor=white)
-![Success](https://img.shields.io/badge/Execution-Zero_Incidents-00B894?style=for-the-badge&labelColor=2D3748&logo=check-circle&logoColor=white)
+![Participants](https://progress-bar.dev/70/?scale=100&title=7000%2B%20Participants&width=250&color=ff6b6b&suffix=00+)
+![Budget](https://progress-bar.dev/85/?scale=100&title=170K%20MAD%20Budget&width=250&color=4ecdc4&suffix=%)
+![Teams](https://progress-bar.dev/75/?scale=100&title=15%2B%20Teams&width=250&color=a29bfe&suffix=+)
+![Success](https://progress-bar.dev/100/?scale=100&title=Zero%20Incidents&width=250&color=00b894&suffix=%)
 
 </div>
-
 
 <div align="center">
 
@@ -213,10 +226,10 @@
 
 | Project | Business Impact | Technology Stack | Performance |
 |:--------|:----------------|:-----------------|:-----------:|
-| **CyberDetection** | Real-time threat detection | Kafka • PySpark • MLlib | ![Performance](https://img.shields.io/badge/Performance-98%25-00b894?style=flat-square) |
-| **CarriereAI** | 500+ jobs/day automation | Spark • Scala • NLP • OCR | ![Performance](https://img.shields.io/badge/Performance-95%25-fdcb6e?style=flat-square) |
-| **AI Media Detector** | 94% accuracy detection | TensorFlow • VGG16 • OpenCV | ![Performance](https://img.shields.io/badge/Performance-94%25-6c5ce7?style=flat-square) |
-| **ETL Analytics** | Automated data warehouse | Python • SQLite • PowerBI | ![Performance](https://img.shields.io/badge/Performance-92%25-ff6b6b?style=flat-square) |
+| **CyberDetection** | Real-time threat detection | Kafka • PySpark • MLlib | ![Performance](https://progress-bar.dev/98/?scale=100&title=&width=120&color=00b894&suffix=%) |
+| **CarriereAI** | 500+ jobs/day automation | Spark • Scala • NLP • OCR | ![Performance](https://progress-bar.dev/95/?scale=100&title=&width=120&color=fdcb6e&suffix=%) |
+| **AI Media Detector** | 94% accuracy detection | TensorFlow • VGG16 • OpenCV | ![Performance](https://progress-bar.dev/94/?scale=100&title=&width=120&color=6c5ce7&suffix=%) |
+| **ETL Analytics** | Automated data warehouse | Python • SQLite • PowerBI | ![Performance](https://progress-bar.dev/92/?scale=100&title=&width=120&color=ff6b6b&suffix=%) |
 
 </div>
 
@@ -224,9 +237,8 @@
 
 <div align="center">
 
-[![CarriereAI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=Job_Recommendation&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/Job_Recommendation/I)
-[![CyberDetection](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CTI&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/CTI)
-[![AI-Media-Authenticity-Detector](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=AI-Media-Authenticity-Detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/AI-Media-Authenticity-Detector)
+[![CarriereAI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CarriereAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/CarriereAI)
+[![CyberDetection](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CyberDetection&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/CyberDetection)
 
 </div>
 
@@ -240,31 +252,26 @@
 
 </div>
 
-
-
 ## GITHUB ANALYTICS
 
 <div align="center">
 
-| Development Stats | | Technology Focus |
+| Development Stats | Contribution Streak | Technology Focus |
 |:---:|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdeladime2003&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FDCB6E&currStreakLabel=FFFFFF&sideLabels=4ECDC4&currStreakNum=FF6B6B&sideNums=FFFFFF&dates=6C5CE7&border_radius=20) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
 
 </div>
-
-</div>
-
-
 
 ### Development Metrics & Growth Analysis
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Total_Contributions-429+-FF6B6B?style=flat-square&labelColor=2D3748)
-![Growth Rate](https://img.shields.io/badge/Growth_Rate-11,100%25-00B894?style=flat-square&labelColor=2D3748)
-![Active Projects](https://img.shields.io/badge/Active_Projects-5+-6C5CE7?style=flat-square&labelColor=2D3748)
+![Contributions](https://progress-bar.dev/85/?scale=100&title=Total%20Contributions&width=300&color=ff6b6b&suffix=%20429+)
+![Growth Rate](https://progress-bar.dev/100/?scale=100&title=Growth%20Rate&width=300&color=00b894&suffix=%2011100%)
+![Active Projects](https://progress-bar.dev/75/?scale=100&title=Active%20Projects&width=300&color=6c5ce7&suffix=%205+)
 
 </div>
+
 **Performance Trajectory:**
 - **2023:** Foundation & Learning (2 contributions)
 - **2024:** Accelerated Development (224 contributions - 11,100% growth)
@@ -274,6 +281,17 @@
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdeladime2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&custom_title=Contribution%20Activity%20Graph)
+
+</div>
+
+### Alternative Stats (If above doesn't load)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=dark&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=dark&hide_border=true&title_color=FF6B6B&text_color=FFFFFF)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdeladime2003&theme=dark&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FDCB6E&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
@@ -297,10 +315,10 @@
 
 <div align="center">
 
-![Leadership](https://progress-bar.dev/100/?scale=100&title=Leadership%20Excellence&width=400&color=ff6b6b&suffix=%207000%2B%20managed)
-![Performance](https://progress-bar.dev/99/?scale=100&title=Performance%20Optimization&width=400&color=00b894&suffix=.99%25%20improvement)
-![Academic](https://progress-bar.dev/97/?scale=100&title=Academic%20Achievement&width=400&color=6c5ce7&suffix=%20Top%203.3%25)
-![International](https://progress-bar.dev/95/?scale=100&title=International%20Experience&width=400&color=4ecdc4&suffix=%20FR%20%26%20MA)
+![Leadership](https://img.shields.io/badge/Leadership_Excellence-7,000+_managed-FF6B6B?style=for-the-badge&labelColor=2D3748)
+![Performance](https://img.shields.io/badge/Performance_Optimization-99.99%25_improvement-00B894?style=for-the-badge&labelColor=2D3748)
+![Academic](https://img.shields.io/badge/Academic_Achievement-Top_3.3%25-6C5CE7?style=for-the-badge&labelColor=2D3748)
+![International](https://img.shields.io/badge/International_Experience-FR_%26_MA-4ECDC4?style=for-the-badge&labelColor=2D3748)
 
 </div>
 
@@ -336,10 +354,10 @@
 
 <div align="center">
 
-![Morocco](https://progress-bar.dev/100/?scale=100&title=Morocco%20Local&width=200&color=4ecdc4&suffix=%)
-![France](https://progress-bar.dev/95/?scale=100&title=France%20Success&width=200&color=ff6b6b&suffix=%)
-![Europe](https://progress-bar.dev/90/?scale=100&title=Europe%20Ready&width=200&color=fdcb6e&suffix=%)
-![Remote](https://progress-bar.dev/85/?scale=100&title=Remote%20Teams&width=200&color=6c5ce7&suffix=%)
+![Morocco](https://img.shields.io/badge/Morocco_Local-100%25-4ECDC4?style=for-the-badge&labelColor=2D3748)
+![France](https://img.shields.io/badge/France_Success-95%25-FF6B6B?style=for-the-badge&labelColor=2D3748)
+![Europe](https://img.shields.io/badge/Europe_Ready-90%25-FDCB6E?style=for-the-badge&labelColor=2D3748)
+![Remote](https://img.shields.io/badge/Remote_Teams-85%25-6C5CE7?style=for-the-badge&labelColor=2D3748)
 
 </div>
 
