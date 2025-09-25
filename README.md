@@ -200,19 +200,19 @@
 ---
 
 <!-- Featured Projects Showcase -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 <div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/AI-Media-Authenticity-Detector"><b>🎭 AI-Media-Authenticity-Detector</b></a><br>
+      <a href="https://github.com/abdeladime2003/AI-Media-Authenticity-Detector"><b> AI-Media-Authenticity-Detector</b></a><br>
       <code>TensorFlow • VGG16 • OpenCV • Deep Learning</code><br>
       <img src="https://img.shields.io/github/stars/abdeladime2003/AI-Media-Authenticity-Detector?style=social" />
       <br>
       <i>94% accuracy for deepfake detection and media authenticity analysis</i>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/Job_Recommendation"><b>🤖 CarriereAI</b></a><br>
+      <a href="https://github.com/abdeladime2003/Job_Recommendation"><b>CarriereAI</b></a><br>
       <code>Spark • Scala • NLP • OCR • MongoDB</code><br>
       <img src="https://img.shields.io/github/stars/abdeladime2003/Job_Recommendation?style=social" />
       <br>
@@ -221,14 +221,14 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/CTI"><b>🔒 CyberDetection</b></a><br>
+      <a href="https://github.com/abdeladime2003/CTI"><b> CyberDetection</b></a><br>
       <code>Kafka • PySpark • MLlib • Real-time</code><br>
       <img src="https://img.shields.io/github/stars/abdeladime2003/CTI?style=social" />
       <br>
       <i>Real-time cybersecurity threat detection with streaming analytics &lt;2s</i>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/PredictPro"><b>⚡ PredictPro</b></a><br>
+      <a href="https://github.com/abdeladime2003/PredictPro"><b> PredictPro</b></a><br>
       <code>React • Django • TailwindCSS • AI/ML • REST API</code><br>
       <img src="https://img.shields.io/github/stars/abdeladime2003/PredictPro?style=social" />
       <br>
@@ -319,7 +319,7 @@
 
 </div>
 
-### 🏆 Development Excellence Summary
+###  Development Excellence Summary
 
 <div align="center">
 
