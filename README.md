@@ -251,9 +251,10 @@
 
 <div align="center">
 
-[![CarriereAI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=Job_Recommendation&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/Job_Recommendation/I)
-[![CyberDetection](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CTI&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/CTI)
 [![AI-Media-Authenticity-Detector](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=AI-Media-Authenticity-Detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/AI-Media-Authenticity-Detector)
+[![CarriereAI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CarriereAI---Job-Recommendation-Platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/CarriereAI---Job-Recommendation-Platform)
+[![CyberDetection](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=Real-Time-Cybersecurity-Detection-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/Real-Time-Cybersecurity-Detection-System)
+[![SportsTech-AI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=SportsTech-AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/SportsTech-AI)
 
 </div>
 
