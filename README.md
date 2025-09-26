@@ -207,14 +207,14 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/AI-Media-Authenticity-Detector"><b>🎭 AI-Media-Authenticity-Detector</b></a><br>
+      <a href="https://github.com/abdeladime2003/AI-Media-Authenticity-Detector"><b>AI-Media-Authenticity-Detector</b></a><br>
       <code>TensorFlow • VGG16 • OpenCV • Deep Learning</code><br>
       <img src="https://img.shields.io/github/stars/abdeladime2003/AI-Media-Authenticity-Detector?style=social" />
       <br>
       <i>94% accuracy for deepfake detection and media authenticity analysis</i>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/CarriereAI---Job-Recommendation-Platform"><b>🤖 CarriereAI</b></a><br>
+      <a href="https://github.com/abdeladime2003/CarriereAI---Job-Recommendation-Platform"><b>CarriereAI</b></a><br>
       <code>Spark • Scala • NLP • OCR • MongoDB</code><br>
       <img src="https://img.shields.io/github/stars/abdeladime2003/CarriereAI---Job-Recommendation-Platform?style=social" />
       <br>
@@ -223,14 +223,14 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/Real-Time-Cybersecurity-Detection-System"><b>🔒 CyberDetection</b></a><br>
+      <a href="https://github.com/abdeladime2003/Real-Time-Cybersecurity-Detection-System"><b>CyberDetection</b></a><br>
       <code>Kafka • PySpark • MLlib • Real-time</code><br>
       <img src="https://img.shields.io/github/stars/abdeladime2003/Real-Time-Cybersecurity-Detection-System?style=social" />
       <br>
       <i>Enterprise-grade cybersecurity platform leveraging Apache Kafka and Spark for real-time threat detection with sub-2-second response times and 98% accuracy.</i>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/SportsTech-AI"><b>🏆 SportsTech-AI</b></a><br>
+      <a href="https://github.com/abdeladime2003/SportsTech-AI"><b>SportsTech-AI</b></a><br>
       <code>Django • React • ML • AI Generation</code><br>
       <img src="https://img.shields.io/github/stars/abdeladime2003/SportsTech-AI?style=social" />
       <br>
@@ -246,7 +246,7 @@
 
 ![Analytics Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,30:4ECDC4,70:6C5CE7,100:45B7D1&height=120&section=header&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Real-time%20Development%20Metrics&descAlignY=55&descSize=14)
 
-[![Analytics Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=1000&height=50&lines=2000%2B+Commits+•+Active+Daily+Contributor;100%25+Code+Quality+•+Enterprise+Standards;Performance+Focus+•+Optimization+Expert)](https://git.io/typing-svg)
+[![Analytics Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=1000&height=50&lines=450%2B+Commits+•+Active+Daily+Contributor;100%25+Code+Quality+•+Enterprise+Standards;Performance+Focus+•+Optimization+Expert)](https://git.io/typing-svg)
 
 </div>
 
