@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=80&lines=DATA+ENGINEERING+SPECIALIST;ENTERPRISE+SOLUTIONS+ARCHITECT;INPT+STUDENT+%7C+GRADUATING+2026;AVAILABLE+FOR+PFE+INTERNSHIP)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=4000&pause=1200&color=4ECDC4&center=true&vCenter=true&width=1200&height=60&lines=Building+next-generation+data+platforms+for+enterprise+transformation;Proven+track+record+performance+improvements;Expert+in+real-time+systems%2C+cloud+migration%2C+ML+infrastructure;Ready+for+PFE+Internship+-+January+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=4000&pause=1200&color=4ECDC4&center=true&vCenter=true&width=1200&height=60&lines=Building+next-generation+data+platforms+for+enterprise+transformation;Proven+track+record+with+99.99%25+performance+improvements;Expert+in+real-time+systems%2C+cloud+migration%2C+ML+infrastructure;Ready+for+PFE+Internship+-+January+2026)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -59,10 +59,21 @@
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-Apache_Spark•Kafka•BigQuery•ETL%2FELT-FF6B6B?style=for-the-badge&labelColor=2D3748&logo=apache-spark)
 ![Cloud Platforms](https://img.shields.io/badge/Cloud_Platforms-GCP•Docker•Kubernetes-4ECDC4?style=for-the-badge&labelColor=2D3748&logo=google-cloud)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-TensorFlow•scikit--learn•MLOps-6C5CE7?style=for-the-badge&labelColor=2D3748&logo=tensorflow)
-![Full Stack](https://img.shields.io/badge/Full_Stack-React•Django_REST-45B7D1?style=for-the-badge&labelColor=2D3748&logo=react)
+![Full Stack](https://img.shields.io/badge/Full_Stack-React•Django_REST•TypeScript-45B7D1?style=for-the-badge&labelColor=2D3748&logo=react)
 
 </div>
 
+### BUSINESS IMPACT METRICS
+
+<div align="center">
+
+![Performance](https://img.shields.io/badge/Performance_Improvement-99.99%25-00B894?style=for-the-badge&logo=trending-up&logoColor=white)
+![Real Time](https://img.shields.io/badge/Real_Time_Processing-%3C2_seconds-FDCB6E?style=for-the-badge&logo=zap&logoColor=black)
+![Leadership](https://img.shields.io/badge/Leadership_Scale-7%2C000%2B_people-6C5CE7?style=for-the-badge&logo=users&logoColor=white)
+![Budget](https://img.shields.io/badge/Budget_Responsibility-170%2C000_MAD-E17055?style=for-the-badge&logo=money-check-alt&logoColor=white)
+![Ranking](https://img.shields.io/badge/National_Ranking-Top_3.3%25-00CEC9?style=for-the-badge&logo=trophy&logoColor=white)
+
+</div>
 
 <div align="center">
 
@@ -72,7 +83,11 @@
 
 ## PROFESSIONAL EXPERIENCE
 
+<div align="center">
 
+[![Experience Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=700&color=FF6B6B&center=true&vCenter=true&width=900&height=50&lines=Enterprise+Experience+in+Morocco+%26+France;Bouygues+Telecom+%7C+4D+Logiciel+Morocco;99.99%25+Performance+Improvements+Delivered;Ready+for+your+next+big+challenge%21)](https://git.io/typing-svg)
+
+</div>
 
 ### BOUYGUES TELECOM | Paris, France | Data Engineer Intern
 **June - August 2025** | **Enterprise BI Migration & Automation Platform**
@@ -157,11 +172,11 @@
 
 ### Data Engineering & Cloud Platforms
 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-Advanced-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Intermediate-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-Intermediate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-Intermediate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Advanced-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-Expert-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-Advanced-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Machine Learning & Analytics
@@ -169,12 +184,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-Intermediate-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### Full-Stack Development
 
-![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django_REST-Expert-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -184,66 +200,52 @@
 ---
 
 <!-- Featured Projects Showcase -->
-<h2 align="center"> Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
+
 <div align="center">
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/AI-Media-Authenticity-Detector"><b> AI-Media-Authenticity-Detector</b></a><br>
+      <a href="https://github.com/abdeladime2003/AI-Media-Authenticity-Detector"><b>🎭 AI-Media-Authenticity-Detector</b></a><br>
       <code>TensorFlow • VGG16 • OpenCV • Deep Learning</code><br>
       <img src="https://img.shields.io/github/stars/abdeladime2003/AI-Media-Authenticity-Detector?style=social" />
       <br>
       <i>94% accuracy for deepfake detection and media authenticity analysis</i>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/Job_Recommendation"><b>CarriereAI</b></a><br>
+      <a href="https://github.com/abdeladime2003/CarriereAI---Job-Recommendation-Platform"><b>🤖 CarriereAI</b></a><br>
       <code>Spark • Scala • NLP • OCR • MongoDB</code><br>
-      <img src="https://img.shields.io/github/stars/abdeladime2003/Job_Recommendation?style=social" />
+      <img src="https://img.shields.io/github/stars/abdeladime2003/CarriereAI---Job-Recommendation-Platform?style=social" />
       <br>
-      <i>End-to-end job matching: 500+ jobs/day automation with intelligent CV-job matching</i>
+      <i>Intelligent job matching platform with automated CV processing, NLP-based skills extraction, and real-time recommendation engine processing 500+ jobs daily.</i>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/CTI"><b> CyberDetection</b></a><br>
+      <a href="https://github.com/abdeladime2003/Real-Time-Cybersecurity-Detection-System"><b>🔒 CyberDetection</b></a><br>
       <code>Kafka • PySpark • MLlib • Real-time</code><br>
-      <img src="https://img.shields.io/github/stars/abdeladime2003/CTI?style=social" />
+      <img src="https://img.shields.io/github/stars/abdeladime2003/Real-Time-Cybersecurity-Detection-System?style=social" />
       <br>
-      <i>Real-time cybersecurity threat detection with streaming analytics &lt;2s</i>
+      <i>Enterprise-grade cybersecurity platform leveraging Apache Kafka and Spark for real-time threat detection with sub-2-second response times and 98% accuracy.</i>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/abdeladime2003/PredictPro"><b> PredictPro</b></a><br>
-      <code>React • Django • TailwindCSS • AI/ML • REST API</code><br>
-      <img src="https://img.shields.io/github/stars/abdeladime2003/PredictPro?style=social" />
+      <a href="https://github.com/abdeladime2003/SportsTech-AI"><b>🏆 SportsTech-AI</b></a><br>
+      <code>Django • React • ML • AI Generation</code><br>
+      <img src="https://img.shields.io/github/stars/abdeladime2003/SportsTech-AI?style=social" />
       <br>
-      <i>Full-stack AI platform: Sports predictions, player transfers, image generation</i>
+      <i>Multi-domain AI prediction platform combining sports analytics, transfer market forecasting, and generative AI for comprehensive data-driven insights.</i>
     </td>
   </tr>
 </table>
+
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-[![Projects Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=600&color=FF6B6B&center=true&vCenter=true&width=1000&height=65&lines=PRODUCTION-READY+PROJECT+PORTFOLIO;CyberDetection+•+Real-time+%3C2s+Processing;CarriereAI+•+500%2B+jobs%2Fday+Automation;AI+Media+Detector+•+94%25+Accuracy;All+Systems+Currently+in+PRODUCTION%21)](https://git.io/typing-svg)
-
-</div>
-
-## PROJECT PORTFOLIO
-
-<div align="center">
-
-### Enterprise-Grade Solutions
-
-| Project | Business Impact | Technology Stack | 
-|:--------|:----------------|:-----------------|
-| **CyberDetection** | Real-time threat detection | Kafka • PySpark • MLlib | 
-| **CarriereAI** | 500+ jobs/day automation | Spark • Scala • NLP • OCR | 
-| **AI Media Detector** | 94% accuracy detection | TensorFlow • VGG16 • OpenCV | 
-| **ETL Analytics** | Automated data warehouse | Python • SQLite • PowerBI |
+[Performance](https://img.shields.io/badge/Performance-95%25-fdcb6e?style=flat-square) |
+| **AI Media Detector** | 94% deepfake detection accuracy | TensorFlow • ResNet50 • OpenCV | ![Performance](https://img.shields.io/badge/Performance-94%25-6c5ce7?style=flat-square) |
+| **SportsTech-AI** | Multi-domain AI predictions | Django • React • ML Models | ![Performance](https://img.shields.io/badge/Performance-92%25-ff6b6b?style=flat-square) |
 
 </div>
 
@@ -270,90 +272,65 @@
 
 
 
-## GITHUB ANALYTICS
+## DEVELOPMENT METRICS
 
 <div align="center">
 
-###  Development Performance Dashboard
+### Professional Development Overview
 
-| Development Stats  |  Technology Focus |
+| Development Stats | Technology Focus |
 |:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeladime2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20&langs_count=6) |
 
 </div>
 
-###  Professional Development Metrics
+### Key Performance Indicators
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Total_Contributions-429+-FF6B6B?style=for-the-badge&labelColor=2D3748&logo=github)
-![Growth Rate](https://img.shields.io/badge/Growth_Rate-11,100%25-00B894?style=for-the-badge&labelColor=2D3748&logo=trending-up)
-![Active Projects](https://img.shields.io/badge/Active_Projects-5+-6C5CE7?style=for-the-badge&labelColor=2D3748&logo=repository)
-![Code Quality](https://img.shields.io/badge/Code_Quality-A+-4ECDC4?style=for-the-badge&labelColor=2D3748&logo=codacy)
+![Active Projects](https://img.shields.io/badge/Active_Projects-4+-6C5CE7?style=for-the-badge&labelColor=2D3748&logo=repository)
+![Code Quality](https://img.shields.io/badge/Code_Quality-Enterprise_Grade-4ECDC4?style=for-the-badge&labelColor=2D3748&logo=codacy)
+![Technologies](https://img.shields.io/badge/Technologies-15+-FF6B6B?style=for-the-badge&labelColor=2D3748&logo=stack-overflow)
 
 </div>
 
-
-
-###  Advanced Language & Technology Analytics
+### Performance Summary
 
 <div align="center">
 
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladime2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=20&langs_count=8)
-
-
-</div>
-
-###  Development Excellence Summary
-
-<div align="center">
-
-| **Metric** | **Performance** | **Industry Benchmark** | **Status** |
-|:-----------|:----------------|:-----------------------|:-----------|
-| **Commit Frequency** | Daily contributor | 3x/week average | ![Excellent](https://img.shields.io/badge/Status-Excellent-00B894?style=flat-square) |
-| **Code Quality** | 95%+ standards | 80% industry average | ![Superior](https://img.shields.io/badge/Status-Superior-FF6B6B?style=flat-square) |
-| **Project Completion** | 100% delivery rate | 85% average | ![Outstanding](https://img.shields.io/badge/Status-Outstanding-6C5CE7?style=flat-square) |
-| **Technology Stack** | 15+ technologies | 8-10 average | ![Advanced](https://img.shields.io/badge/Status-Advanced-4ECDC4?style=flat-square) |
+| **Metric** | **Achievement** | **Status** |
+|:-----------|:----------------|:-----------|
+| **Project Delivery** | 100% completion rate | ![Outstanding](https://img.shields.io/badge/Status-Outstanding-00B894?style=flat-square) |
+| **Code Quality** | Enterprise standards | ![Superior](https://img.shields.io/badge/Status-Superior-FF6B6B?style=flat-square) |
+| **Technology Stack** | 15+ technologies | ![Advanced](https://img.shields.io/badge/Status-Advanced-4ECDC4?style=flat-square) |
 
 </div>
 
 ---
 
-<div align="center">
-
-[![Achievement Animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FDCB6E&center=true&vCenter=true&width=1000&height=50&lines=7000%2B+People+Managed+•+Leadership+Excellence;99.99%25+Performance+Improvement+•+Enterprise+Impact;Top+3.3%25+National+Ranking+•+Academic+Elite)](https://git.io/typing-svg)
-
-</div>
-
 ## ACHIEVEMENTS & RECOGNITION
 
-###  GitHub Achievement Showcase
+### Professional Accomplishments
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdeladime2003&theme=radical&no-frame=true&margin-w=4&column=5&no-bg=true&title=Stars,Followers,Commits,Repositories,MultipleLang)
+| **Category** | **Achievement** | **Impact** |
+|:-------------|:----------------|:-----------|
+| **Leadership** | INPT Olympics 2024 Director | 7,000+ people managed, 170K MAD budget |
+| **Performance Engineering** | Bouygues Telecom Optimization | 99.99% improvement (days→seconds) |
+| **Academic Excellence** | CNC Morocco Ranking | Top 3.3% nationally (133/4000) |
+| **International Experience** | France & Morocco | Professional bilingual expertise |
 
 </div>
 
-###  Professional Accomplishments & Enterprise Impact
+### Key Strengths
 
 <div align="center">
 
-| **Category** | **Achievement** | **Quantified Impact** |
-|:-------------|:----------------|:---------------------|
-| **Leadership Excellence** | INPT Olympics 2024 Director | ![Scale](https://img.shields.io/badge/7,000+-people_managed-FF6B6B?style=flat-square) ![Budget](https://img.shields.io/badge/170K_MAD-budget_responsibility-00B894?style=flat-square) |
-| **Performance Engineering** | Bouygues Telecom Optimization |  ![Time](https://img.shields.io/badge/3--5_days→10s-processing_time-4ECDC4?style=flat-square) |
-| **Academic Excellence** | CNC Morocco Ranking | ![Ranking](https://img.shields.io/badge/Top_3.3%25-nationally_ranked-FDCB6E?style=flat-square) ![Score](https://img.shields.io/badge/133/4000-elite_performance-E17055?style=flat-square) |
-
-</div>
-
-###  Enterprise-Level Competencies
-
-<div align="center">
-
-![Leadership](https://img.shields.io/badge/Leadership_Excellence-7,000+_managed-FF6B6B?style=for-the-badge&labelColor=2D3748&logo=users)
-![Academic](https://img.shields.io/badge/Academic_Achievement-Top_3.3%25_National-6C5CE7?style=for-the-badge&labelColor=2D3748&logo=trophy)
-![Technical](https://img.shields.io/badge/Technical_Expertise-15+_Technologies-FDCB6E?style=for-the-badge&labelColor=2D3748&logo=stack-overflow)
+![Leadership](https://img.shields.io/badge/Leadership-Enterprise_Scale-FF6B6B?style=for-the-badge&labelColor=2D3748)
+![Performance](https://img.shields.io/badge/Performance-Optimization_Expert-00B894?style=for-the-badge&labelColor=2D3748)
+![Academic](https://img.shields.io/badge/Academic-Top_3.3%25_National-6C5CE7?style=for-the-badge&labelColor=2D3748)
+![International](https://img.shields.io/badge/International-France_%26_Morocco-4ECDC4?style=for-the-badge&labelColor=2D3748)
 
 </div>
 
@@ -427,4 +404,5 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer)
 
 </div>
-
+fais ca et plus de grphe de stats 
+et professioanlisme
