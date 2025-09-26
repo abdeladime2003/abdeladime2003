@@ -245,10 +245,18 @@
       <br>
       <i>Projet de machine learning utilisant LightGBM pour prédire les prix de clôture des actions, avec ingénierie de fonctionnalités et optimisation des hyperparamètres sur des données historiques du marché.</i>
     </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/abdeladime2003/implementation_scratch"><b>implementation_scratch</b></a><br>
+      <code>Python • Jupyter Notebook • ML • Data Science</code><br>
+      <img src="https://img.shields.io/github/stars/abdeladime2003/implementation_scratch?style=social" />
+      <br>
+      <i>Repository for hands-on implementations, prototyping, and experimentation with data science and machine learning concepts using interactive Jupyter Notebooks.</i>
+    </td>
   </tr>
 </table>
 
 </div>
+
 
 ---
 
