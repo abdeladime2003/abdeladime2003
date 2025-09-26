@@ -240,26 +240,6 @@
 </table>
 
 </div>
-
----
-
-[Performance](https://img.shields.io/badge/Performance-95%25-fdcb6e?style=flat-square) |
-| **AI Media Detector** | 94% deepfake detection accuracy | TensorFlow • ResNet50 • OpenCV | ![Performance](https://img.shields.io/badge/Performance-94%25-6c5ce7?style=flat-square) |
-| **SportsTech-AI** | Multi-domain AI predictions | Django • React • ML Models | ![Performance](https://img.shields.io/badge/Performance-92%25-ff6b6b?style=flat-square) |
-
-</div>
-
-### Featured Repository Showcase
-
-<div align="center">
-
-[![AI-Media-Authenticity-Detector](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=AI-Media-Authenticity-Detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/AI-Media-Authenticity-Detector)
-[![CarriereAI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=CarriereAI---Job-Recommendation-Platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/CarriereAI---Job-Recommendation-Platform)
-[![CyberDetection](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=Real-Time-Cybersecurity-Detection-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/Real-Time-Cybersecurity-Detection-System)
-[![SportsTech-AI](https://github-readme-stats.vercel.app/api/pin/?username=abdeladime2003&repo=SportsTech-AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/abdeladime2003/SportsTech-AI)
-
-</div>
-
 ---
 
 <div align="center">
