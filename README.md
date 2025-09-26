@@ -199,8 +199,8 @@
 
 ---
 
-<!-- Featured Projects Showcase -->
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- red Projects Showcase -->
+<h2 align="center"> Featured Projects</h2>
 
 <div align="center">
 
@@ -235,6 +235,14 @@
       <img src="https://img.shields.io/github/stars/abdeladime2003/SportsTech-AI?style=social" />
       <br>
       <i>Multi-domain AI prediction platform combining sports analytics, transfer market forecasting, and generative AI for comprehensive data-driven insights.</i>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/abdeladime2003/Optiver-Trading-at-the-close/"><b>Optiver-Trading-at-the-close</b></a><br>
+      <code> ML </code><br>
+      <img src="https://img.shields.io/github/stars/abdeladime2003/SportsTech-AI?style=social" />
+      <br>
+      <i>**Optiver Trading at the Close** est un projet de machine learning utilisant la régression LightGBM pour prédire les prix de clôture des actions, avec ingénierie de fonctionnalités et optimisation des hyperparamètres sur des données historiques du marché.
+</i>
     </td>
   </tr>
 </table>
